@@ -3572,5 +3572,20 @@
       "colorSvg": "fiat/color/pln.svg"
     }
   ],
-  "fiatCount": 20
+  "fiatCount": 20,
+  "aliases": {
+    "weth": "eth",
+    "steth": "eth",
+    "cbeth": "eth",
+    "wbeth": "eth",
+    "btcb": "btc",
+    "wbnb": "bnb",
+    "tbnb": "bnb",
+    "wavax": "avax",
+    "wpol": "matic",
+    "pol": "matic",
+    "wmatic": "matic",
+    "wtrx": "trx",
+    "usdbc": "usdc"
+  }
 }

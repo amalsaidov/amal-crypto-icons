@@ -25,11 +25,23 @@ class CryptoIcons {
   static const String cdn =
       'https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/';
 
+  /// Wrapped / staked / bridged variants → their base coin's real logo.
+  static const Map<String, String> aliases = {
+    'weth': 'eth', 'steth': 'eth', 'cbeth': 'eth', 'wbeth': 'eth',
+    'btcb': 'btc',
+    'wbnb': 'bnb', 'tbnb': 'bnb',
+    'wavax': 'avax',
+    'wpol': 'matic', 'pol': 'matic', 'wmatic': 'matic',
+    'wtrx': 'trx',
+    'usdbc': 'usdc',
+  };
+
   /// SVG URL for a [symbol]. [mono] picks the monochrome variant (crypto only).
   static String svgUrl(String symbol,
       {IconKind kind = IconKind.crypto, bool mono = false}) {
-    final s = symbol.toLowerCase().split('.').first; // strip .e / .b suffixes
+    var s = symbol.toLowerCase().split('.').first; // strip .e / .b suffixes
     if (kind == IconKind.fiat) return '${cdn}fiat/color/$s.svg';
+    s = aliases[s] ?? s;
     return '$cdn${mono ? 'crypto/mono' : 'crypto/color'}/$s.svg';
   }
 }
