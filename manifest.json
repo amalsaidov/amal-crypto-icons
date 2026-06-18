@@ -4,7 +4,7 @@
   "description": "High-quality vector (SVG) crypto + fiat icons. Sharp at any size. CC0.",
   "cdn": "https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/",
   "raw": "https://raw.githubusercontent.com/amalsaidov/amal-crypto-icons/main/",
-  "count": 489,
+  "count": 501,
   "crypto": [
     {
       "symbol": "$PAC",
@@ -175,11 +175,25 @@
       "monoSvg": "crypto/mono/ape.svg"
     },
     {
+      "symbol": "APEX",
+      "name": "",
+      "color": "",
+      "colorSvg": "crypto/color/apex.svg",
+      "monoSvg": "crypto/mono/apex.svg"
+    },
+    {
       "symbol": "APPC",
       "name": "AppCoins",
       "color": "#fd875e",
       "colorSvg": "crypto/color/appc.svg",
       "monoSvg": "crypto/mono/appc.svg"
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "color": "",
+      "colorSvg": "crypto/color/arb.svg",
+      "monoSvg": "crypto/mono/arb.svg"
     },
     {
       "symbol": "ARDR",
@@ -595,6 +609,13 @@
       "monoSvg": "crypto/mono/bze.svg"
     },
     {
+      "symbol": "CAKE",
+      "name": "PancakeSwap",
+      "color": "",
+      "colorSvg": "crypto/color/cake.svg",
+      "monoSvg": "crypto/mono/cake.svg"
+    },
+    {
       "symbol": "CALL",
       "name": "Capital",
       "color": "#fbb413",
@@ -621,6 +642,13 @@
       "color": "#272731",
       "colorSvg": "crypto/color/cdt.svg",
       "monoSvg": "crypto/mono/cdt.svg"
+    },
+    {
+      "symbol": "CENZ",
+      "name": "",
+      "color": "",
+      "colorSvg": "crypto/color/cenz.svg",
+      "monoSvg": "crypto/mono/cenz.svg"
     },
     {
       "symbol": "CHAIN",
@@ -1232,6 +1260,13 @@
       "monoSvg": "crypto/mono/flux.svg"
     },
     {
+      "symbol": "FRAX",
+      "name": "Frax",
+      "color": "",
+      "colorSvg": "crypto/color/frax.svg",
+      "monoSvg": "crypto/mono/frax.svg"
+    },
+    {
       "symbol": "FSN",
       "name": "FUSION",
       "color": "#1d9ad7",
@@ -1328,6 +1363,13 @@
       "color": "#dbb358",
       "colorSvg": "crypto/color/gmt.svg",
       "monoSvg": "crypto/mono/gmt.svg"
+    },
+    {
+      "symbol": "GMX",
+      "name": "GMX",
+      "color": "",
+      "colorSvg": "crypto/color/gmx.svg",
+      "monoSvg": "crypto/mono/gmx.svg"
     },
     {
       "symbol": "GNO",
@@ -1505,6 +1547,13 @@
       "monoSvg": "crypto/mono/hush.svg"
     },
     {
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "color": "",
+      "colorSvg": "crypto/color/hype.svg",
+      "monoSvg": "crypto/mono/hype.svg"
+    },
+    {
       "symbol": "ICN",
       "name": "Iconomi",
       "color": "#4c6f8c",
@@ -1603,11 +1652,25 @@
       "monoSvg": "crypto/mono/jnt.svg"
     },
     {
+      "symbol": "JOE",
+      "name": "JOE",
+      "color": "",
+      "colorSvg": "crypto/color/joe.svg",
+      "monoSvg": "crypto/mono/joe.svg"
+    },
+    {
       "symbol": "JPY",
       "name": "JPY",
       "color": "#eac749",
       "colorSvg": "crypto/color/jpy.svg",
       "monoSvg": "crypto/mono/jpy.svg"
+    },
+    {
+      "symbol": "JST",
+      "name": "JUST",
+      "color": "",
+      "colorSvg": "crypto/color/jst.svg",
+      "monoSvg": "crypto/mono/jst.svg"
     },
     {
       "symbol": "KCS",
@@ -2128,6 +2191,13 @@
       "monoSvg": "crypto/mono/oot.svg"
     },
     {
+      "symbol": "OP",
+      "name": "Optimism",
+      "color": "",
+      "colorSvg": "crypto/color/op.svg",
+      "monoSvg": "crypto/mono/op.svg"
+    },
+    {
       "symbol": "OST",
       "name": "OST",
       "color": "#34445b",
@@ -2210,6 +2280,20 @@
       "color": "#663300",
       "colorSvg": "crypto/color/payx.svg",
       "monoSvg": "crypto/mono/payx.svg"
+    },
+    {
+      "symbol": "PENDLE",
+      "name": "Pendle",
+      "color": "",
+      "colorSvg": "crypto/color/pendle.svg",
+      "monoSvg": "crypto/mono/pendle.svg"
+    },
+    {
+      "symbol": "PEPE",
+      "name": "Pepe",
+      "color": "",
+      "colorSvg": "crypto/color/pepe.svg",
+      "monoSvg": "crypto/mono/pepe.svg"
     },
     {
       "symbol": "PINK",
@@ -2583,6 +2667,13 @@
       "monoSvg": "crypto/mono/ser.svg"
     },
     {
+      "symbol": "SHIB",
+      "name": "Shiba Inu",
+      "color": "",
+      "colorSvg": "crypto/color/shib.svg",
+      "monoSvg": "crypto/mono/shib.svg"
+    },
+    {
       "symbol": "SHIFT",
       "name": "Shift",
       "color": "#964b9c",
@@ -2791,6 +2882,13 @@
       "color": "#2d9cdb",
       "colorSvg": "crypto/color/sumo.svg",
       "monoSvg": "crypto/mono/sumo.svg"
+    },
+    {
+      "symbol": "SUN",
+      "name": "Sun",
+      "color": "",
+      "colorSvg": "crypto/color/sun.svg",
+      "monoSvg": "crypto/mono/sun.svg"
     },
     {
       "symbol": "SUSHI",
@@ -3414,20 +3512,6 @@
       "color": "#302c2c",
       "colorSvg": "crypto/color/zrx.svg",
       "monoSvg": "crypto/mono/zrx.svg"
-    },
-    {
-      "symbol": "APEX",
-      "name": "",
-      "color": "",
-      "colorSvg": "crypto/color/apex.svg",
-      "monoSvg": "crypto/mono/apex.svg"
-    },
-    {
-      "symbol": "CENZ",
-      "name": "",
-      "color": "",
-      "colorSvg": "crypto/color/cenz.svg",
-      "monoSvg": "crypto/mono/cenz.svg"
     }
   ],
   "fiat": [

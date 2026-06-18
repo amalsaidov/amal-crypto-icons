@@ -68,7 +68,8 @@ Drop an SVG into `crypto/color/<symbol>.svg` (+ `crypto/mono/`), add an entry to
 
 ## Credits / License
 
-- Crypto icons from [spothq/cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons) — **CC0 1.0**.
+- Core crypto icons from [spothq/cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons) — **CC0 1.0**.
+- Additional modern tokens (ARB, OP, PEPE, SHIB, GMX, PENDLE, JOE, CAKE, FRAX, SUN, JST…) from [0xa3k5/web3icons](https://github.com/0xa3k5/web3icons) — **MIT**.
 - Fiat icons + Flutter interface: this repo — **CC0 1.0** (see [LICENSE](LICENSE)).
 
 Coin logos may be trademarks of their respective projects; CC0 covers the icon files only.
