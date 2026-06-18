@@ -1,0 +1,3576 @@
+{
+  "name": "amal-crypto-icons",
+  "version": "1.0.0",
+  "description": "High-quality vector (SVG) crypto + fiat icons. Sharp at any size. CC0.",
+  "cdn": "https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/",
+  "raw": "https://raw.githubusercontent.com/amalsaidov/amal-crypto-icons/main/",
+  "count": 489,
+  "crypto": [
+    {
+      "symbol": "$PAC",
+      "name": "PACcoin",
+      "color": "#f5eb16",
+      "colorSvg": "crypto/color/$pac.svg",
+      "monoSvg": "crypto/mono/$pac.svg"
+    },
+    {
+      "symbol": "0XBTC",
+      "name": "0xBitcoin",
+      "color": "#ff914d",
+      "colorSvg": "crypto/color/0xbtc.svg",
+      "monoSvg": "crypto/mono/0xbtc.svg"
+    },
+    {
+      "symbol": "1INCH",
+      "name": "1inch Network",
+      "color": "#d82122",
+      "colorSvg": "crypto/color/1inch.svg",
+      "monoSvg": "crypto/mono/1inch.svg"
+    },
+    {
+      "symbol": "2GIVE",
+      "name": "2Give",
+      "color": "#f1cb60",
+      "colorSvg": "crypto/color/2give.svg",
+      "monoSvg": "crypto/mono/2give.svg"
+    },
+    {
+      "symbol": "AAVE",
+      "name": "AAVE",
+      "color": "#2ebac6",
+      "colorSvg": "crypto/color/aave.svg",
+      "monoSvg": "crypto/mono/aave.svg"
+    },
+    {
+      "symbol": "ABT",
+      "name": "Arcblock",
+      "color": "#3effff",
+      "colorSvg": "crypto/color/abt.svg",
+      "monoSvg": "crypto/mono/abt.svg"
+    },
+    {
+      "symbol": "ACT",
+      "name": "Achain",
+      "color": "#767dff",
+      "colorSvg": "crypto/color/act.svg",
+      "monoSvg": "crypto/mono/act.svg"
+    },
+    {
+      "symbol": "ACTN",
+      "name": "Action Coin",
+      "color": "#ffffff",
+      "colorSvg": "crypto/color/actn.svg",
+      "monoSvg": "crypto/mono/actn.svg"
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "color": "#0d1e30",
+      "colorSvg": "crypto/color/ada.svg",
+      "monoSvg": "crypto/mono/ada.svg"
+    },
+    {
+      "symbol": "ADD",
+      "name": "ADD Token",
+      "color": "#fec807",
+      "colorSvg": "crypto/color/add.svg",
+      "monoSvg": "crypto/mono/add.svg"
+    },
+    {
+      "symbol": "ADX",
+      "name": "AdEx",
+      "color": "#1b75bc",
+      "colorSvg": "crypto/color/adx.svg",
+      "monoSvg": "crypto/mono/adx.svg"
+    },
+    {
+      "symbol": "AE",
+      "name": "Aeternity",
+      "color": "#de3f6b",
+      "colorSvg": "crypto/color/ae.svg",
+      "monoSvg": "crypto/mono/ae.svg"
+    },
+    {
+      "symbol": "AEON",
+      "name": "Aeon",
+      "color": "#134451",
+      "colorSvg": "crypto/color/aeon.svg",
+      "monoSvg": "crypto/mono/aeon.svg"
+    },
+    {
+      "symbol": "AEUR",
+      "name": "Augmint Euro Token",
+      "color": "#051d2d",
+      "colorSvg": "crypto/color/aeur.svg",
+      "monoSvg": "crypto/mono/aeur.svg"
+    },
+    {
+      "symbol": "AGI",
+      "name": "SingularityNET",
+      "color": "#6916ff",
+      "colorSvg": "crypto/color/agi.svg",
+      "monoSvg": "crypto/mono/agi.svg"
+    },
+    {
+      "symbol": "AGRS",
+      "name": "Agoras Tauchain",
+      "color": "#f49e00",
+      "colorSvg": "crypto/color/agrs.svg",
+      "monoSvg": "crypto/mono/agrs.svg"
+    },
+    {
+      "symbol": "AION",
+      "name": "Aion",
+      "color": "#00bfec",
+      "colorSvg": "crypto/color/aion.svg",
+      "monoSvg": "crypto/mono/aion.svg"
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "color": "#000000",
+      "colorSvg": "crypto/color/algo.svg",
+      "monoSvg": "crypto/mono/algo.svg"
+    },
+    {
+      "symbol": "AMB",
+      "name": "Ambrosus",
+      "color": "#3c5be0",
+      "colorSvg": "crypto/color/amb.svg",
+      "monoSvg": "crypto/mono/amb.svg"
+    },
+    {
+      "symbol": "AMP",
+      "name": "HyperSpace (Synereo)",
+      "color": "#2daee4",
+      "colorSvg": "crypto/color/amp.svg",
+      "monoSvg": "crypto/mono/amp.svg"
+    },
+    {
+      "symbol": "AMPL",
+      "name": "Ampleforth",
+      "color": "#000000",
+      "colorSvg": "crypto/color/ampl.svg",
+      "monoSvg": "crypto/mono/ampl.svg"
+    },
+    {
+      "symbol": "ANKR",
+      "name": "Ankr Network",
+      "color": "#2e6bf6",
+      "colorSvg": "crypto/color/ankr.svg",
+      "monoSvg": "crypto/mono/ankr.svg"
+    },
+    {
+      "symbol": "ANT",
+      "name": "Aragon",
+      "color": "#2cd3e1",
+      "colorSvg": "crypto/color/ant.svg",
+      "monoSvg": "crypto/mono/ant.svg"
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "color": "#0054f9",
+      "colorSvg": "crypto/color/ape.svg",
+      "monoSvg": "crypto/mono/ape.svg"
+    },
+    {
+      "symbol": "APPC",
+      "name": "AppCoins",
+      "color": "#fd875e",
+      "colorSvg": "crypto/color/appc.svg",
+      "monoSvg": "crypto/mono/appc.svg"
+    },
+    {
+      "symbol": "ARDR",
+      "name": "Ardor",
+      "color": "#3c87c7",
+      "colorSvg": "crypto/color/ardr.svg",
+      "monoSvg": "crypto/mono/ardr.svg"
+    },
+    {
+      "symbol": "ARG",
+      "name": "Argentum",
+      "color": "#a71435",
+      "colorSvg": "crypto/color/arg.svg",
+      "monoSvg": "crypto/mono/arg.svg"
+    },
+    {
+      "symbol": "ARK",
+      "name": "Ark",
+      "color": "#f70000",
+      "colorSvg": "crypto/color/ark.svg",
+      "monoSvg": "crypto/mono/ark.svg"
+    },
+    {
+      "symbol": "ARN",
+      "name": "Aeron",
+      "color": "#0092b5",
+      "colorSvg": "crypto/color/arn.svg",
+      "monoSvg": "crypto/mono/arn.svg"
+    },
+    {
+      "symbol": "ARNX",
+      "name": "Aeron",
+      "color": "#436697",
+      "colorSvg": "crypto/color/arnx.svg",
+      "monoSvg": "crypto/mono/arnx.svg"
+    },
+    {
+      "symbol": "ARY",
+      "name": "Block Array",
+      "color": "#343434",
+      "colorSvg": "crypto/color/ary.svg",
+      "monoSvg": "crypto/mono/ary.svg"
+    },
+    {
+      "symbol": "AST",
+      "name": "AirSwap",
+      "color": "#0061ff",
+      "colorSvg": "crypto/color/ast.svg",
+      "monoSvg": "crypto/mono/ast.svg"
+    },
+    {
+      "symbol": "ATLAS",
+      "name": "Star Atlas",
+      "color": "#31fafb",
+      "colorSvg": "crypto/color/atlas.svg",
+      "monoSvg": "crypto/mono/atlas.svg"
+    },
+    {
+      "symbol": "ATM",
+      "name": "ATMChain",
+      "color": "#346fce",
+      "colorSvg": "crypto/color/atm.svg",
+      "monoSvg": "crypto/mono/atm.svg"
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos",
+      "color": "#2e3148",
+      "colorSvg": "crypto/color/atom.svg",
+      "monoSvg": "crypto/mono/atom.svg"
+    },
+    {
+      "symbol": "AUDR",
+      "name": "AUDRamp",
+      "color": "#34318a",
+      "colorSvg": "crypto/color/audr.svg",
+      "monoSvg": "crypto/mono/audr.svg"
+    },
+    {
+      "symbol": "AURY",
+      "name": "Aurory",
+      "color": "#e756cc",
+      "colorSvg": "crypto/color/aury.svg",
+      "monoSvg": "crypto/mono/aury.svg"
+    },
+    {
+      "symbol": "AUTO",
+      "name": "Cube",
+      "color": "#fab431",
+      "colorSvg": "crypto/color/auto.svg",
+      "monoSvg": "crypto/mono/auto.svg"
+    },
+    {
+      "symbol": "AVAX",
+      "name": "Avalanche",
+      "color": "#e84142",
+      "colorSvg": "crypto/color/avax.svg",
+      "monoSvg": "crypto/mono/avax.svg"
+    },
+    {
+      "symbol": "AYWA",
+      "name": "Aywa",
+      "color": "#3355b5",
+      "colorSvg": "crypto/color/aywa.svg",
+      "monoSvg": "crypto/mono/aywa.svg"
+    },
+    {
+      "symbol": "BAB",
+      "name": "Bitcoin Cash ABC",
+      "color": "#f19f13",
+      "colorSvg": "crypto/color/bab.svg",
+      "monoSvg": "crypto/mono/bab.svg"
+    },
+    {
+      "symbol": "BAL",
+      "name": "Balancer",
+      "color": "#1e1e1e",
+      "colorSvg": "crypto/color/bal.svg",
+      "monoSvg": "crypto/mono/bal.svg"
+    },
+    {
+      "symbol": "BAND",
+      "name": "Band Protocol",
+      "color": "#516aff",
+      "colorSvg": "crypto/color/band.svg",
+      "monoSvg": "crypto/mono/band.svg"
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention Token",
+      "color": "#ff5000",
+      "colorSvg": "crypto/color/bat.svg",
+      "monoSvg": "crypto/mono/bat.svg"
+    },
+    {
+      "symbol": "BAY",
+      "name": "BitBay",
+      "color": "#6356ab",
+      "colorSvg": "crypto/color/bay.svg",
+      "monoSvg": "crypto/mono/bay.svg"
+    },
+    {
+      "symbol": "BCBC",
+      "name": "BCBC",
+      "color": "#004ab5",
+      "colorSvg": "crypto/color/bcbc.svg",
+      "monoSvg": "crypto/mono/bcbc.svg"
+    },
+    {
+      "symbol": "BCC",
+      "name": "BCC",
+      "color": "#f7931c",
+      "colorSvg": "crypto/color/bcc.svg",
+      "monoSvg": "crypto/mono/bcc.svg"
+    },
+    {
+      "symbol": "BCD",
+      "name": "Bitcoin Diamond",
+      "color": "#fcc339",
+      "colorSvg": "crypto/color/bcd.svg",
+      "monoSvg": "crypto/mono/bcd.svg"
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "color": "#8dc351",
+      "colorSvg": "crypto/color/bch.svg",
+      "monoSvg": "crypto/mono/bch.svg"
+    },
+    {
+      "symbol": "BCIO",
+      "name": "Blockchain.io",
+      "color": "#3f43ad",
+      "colorSvg": "crypto/color/bcio.svg",
+      "monoSvg": "crypto/mono/bcio.svg"
+    },
+    {
+      "symbol": "BCN",
+      "name": "Bytecoin",
+      "color": "#f04086",
+      "colorSvg": "crypto/color/bcn.svg",
+      "monoSvg": "crypto/mono/bcn.svg"
+    },
+    {
+      "symbol": "BCO",
+      "name": "BananaCoin",
+      "color": "#2c76b7",
+      "colorSvg": "crypto/color/bco.svg",
+      "monoSvg": "crypto/mono/bco.svg"
+    },
+    {
+      "symbol": "BCPT",
+      "name": "BlockMason Credit Protocol",
+      "color": "#404040",
+      "colorSvg": "crypto/color/bcpt.svg",
+      "monoSvg": "crypto/mono/bcpt.svg"
+    },
+    {
+      "symbol": "BDL",
+      "name": "Bitdeal",
+      "color": "#e54c40",
+      "colorSvg": "crypto/color/bdl.svg",
+      "monoSvg": "crypto/mono/bdl.svg"
+    },
+    {
+      "symbol": "BEAM",
+      "name": "Beam",
+      "color": "#0b76ff",
+      "colorSvg": "crypto/color/beam.svg",
+      "monoSvg": "crypto/mono/beam.svg"
+    },
+    {
+      "symbol": "BELA",
+      "name": "Belacoin",
+      "color": "#13a0f6",
+      "colorSvg": "crypto/color/bela.svg",
+      "monoSvg": "crypto/mono/bela.svg"
+    },
+    {
+      "symbol": "BIX",
+      "name": "Bibox Token",
+      "color": "#000000",
+      "colorSvg": "crypto/color/bix.svg",
+      "monoSvg": "crypto/mono/bix.svg"
+    },
+    {
+      "symbol": "BLCN",
+      "name": "BLCN",
+      "color": "#2aabe4",
+      "colorSvg": "crypto/color/blcn.svg",
+      "monoSvg": "crypto/mono/blcn.svg"
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackCoin",
+      "color": "#181818",
+      "colorSvg": "crypto/color/blk.svg",
+      "monoSvg": "crypto/mono/blk.svg"
+    },
+    {
+      "symbol": "BLOCK",
+      "name": "Blocknet",
+      "color": "#101341",
+      "colorSvg": "crypto/color/block.svg",
+      "monoSvg": "crypto/mono/block.svg"
+    },
+    {
+      "symbol": "BLZ",
+      "name": "Blazecoin",
+      "color": "#18578c",
+      "colorSvg": "crypto/color/blz.svg",
+      "monoSvg": "crypto/mono/blz.svg"
+    },
+    {
+      "symbol": "BNB",
+      "name": "Binance Coin",
+      "color": "#f3ba2f",
+      "colorSvg": "crypto/color/bnb.svg",
+      "monoSvg": "crypto/mono/bnb.svg"
+    },
+    {
+      "symbol": "BNT",
+      "name": "Bancor Network Token",
+      "color": "#000d2b",
+      "colorSvg": "crypto/color/bnt.svg",
+      "monoSvg": "crypto/mono/bnt.svg"
+    },
+    {
+      "symbol": "BNTY",
+      "name": "Bounty0x",
+      "color": "#fd7a3d",
+      "colorSvg": "crypto/color/bnty.svg",
+      "monoSvg": "crypto/mono/bnty.svg"
+    },
+    {
+      "symbol": "BOOTY",
+      "name": "Booty",
+      "color": "#00b4f4",
+      "colorSvg": "crypto/color/booty.svg",
+      "monoSvg": "crypto/mono/booty.svg"
+    },
+    {
+      "symbol": "BOS",
+      "name": "BOScoin",
+      "color": "#00a8d6",
+      "colorSvg": "crypto/color/bos.svg",
+      "monoSvg": "crypto/mono/bos.svg"
+    },
+    {
+      "symbol": "BPT",
+      "name": "Blockport",
+      "color": "#0f63d8",
+      "colorSvg": "crypto/color/bpt.svg",
+      "monoSvg": "crypto/mono/bpt.svg"
+    },
+    {
+      "symbol": "BQ",
+      "name": "bitqy",
+      "color": "#1d1d1d",
+      "colorSvg": "crypto/color/bq.svg",
+      "monoSvg": "crypto/mono/bq.svg"
+    },
+    {
+      "symbol": "BRD",
+      "name": "Bread",
+      "color": "#fe5d86",
+      "colorSvg": "crypto/color/brd.svg",
+      "monoSvg": "crypto/mono/brd.svg"
+    },
+    {
+      "symbol": "BSD",
+      "name": "BitSend",
+      "color": "#000000",
+      "colorSvg": "crypto/color/bsd.svg",
+      "monoSvg": "crypto/mono/bsd.svg"
+    },
+    {
+      "symbol": "BSV",
+      "name": "BitcoinSV",
+      "color": "#eab304",
+      "colorSvg": "crypto/color/bsv.svg",
+      "monoSvg": "crypto/mono/bsv.svg"
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "color": "#f7931a",
+      "colorSvg": "crypto/color/btc.svg",
+      "monoSvg": "crypto/mono/btc.svg"
+    },
+    {
+      "symbol": "BTCD",
+      "name": "BitcoinDark",
+      "color": "#ff6600",
+      "colorSvg": "crypto/color/btcd.svg",
+      "monoSvg": "crypto/mono/btcd.svg"
+    },
+    {
+      "symbol": "BTCH",
+      "name": "Bitcoin Hush",
+      "color": "#4700c2",
+      "colorSvg": "crypto/color/btch.svg",
+      "monoSvg": "crypto/mono/btch.svg"
+    },
+    {
+      "symbol": "BTCP",
+      "name": "Bitcoin Private",
+      "color": "#272d63",
+      "colorSvg": "crypto/color/btcp.svg",
+      "monoSvg": "crypto/mono/btcp.svg"
+    },
+    {
+      "symbol": "BTCZ",
+      "name": "BitcoinZ",
+      "color": "#f8c24a",
+      "colorSvg": "crypto/color/btcz.svg",
+      "monoSvg": "crypto/mono/btcz.svg"
+    },
+    {
+      "symbol": "BTDX",
+      "name": "Bitcloud",
+      "color": "#00aaff",
+      "colorSvg": "crypto/color/btdx.svg",
+      "monoSvg": "crypto/mono/btdx.svg"
+    },
+    {
+      "symbol": "BTG",
+      "name": "Bitcoin Gold",
+      "color": "#eba809",
+      "colorSvg": "crypto/color/btg.svg",
+      "monoSvg": "crypto/mono/btg.svg"
+    },
+    {
+      "symbol": "BTM",
+      "name": "Bytom",
+      "color": "#504c4c",
+      "colorSvg": "crypto/color/btm.svg",
+      "monoSvg": "crypto/mono/btm.svg"
+    },
+    {
+      "symbol": "BTS",
+      "name": "BitShares",
+      "color": "#35baeb",
+      "colorSvg": "crypto/color/bts.svg",
+      "monoSvg": "crypto/mono/bts.svg"
+    },
+    {
+      "symbol": "BTT",
+      "name": "BitTorrent",
+      "color": "#000000",
+      "colorSvg": "crypto/color/btt.svg",
+      "monoSvg": "crypto/mono/btt.svg"
+    },
+    {
+      "symbol": "BTX",
+      "name": "Bitcore",
+      "color": "#fb2ea3",
+      "colorSvg": "crypto/color/btx.svg",
+      "monoSvg": "crypto/mono/btx.svg"
+    },
+    {
+      "symbol": "BURST",
+      "name": "Burst",
+      "color": "#2d2d2d",
+      "colorSvg": "crypto/color/burst.svg",
+      "monoSvg": "crypto/mono/burst.svg"
+    },
+    {
+      "symbol": "BZE",
+      "name": "BZEdge",
+      "color": "#00aeef",
+      "colorSvg": "crypto/color/bze.svg",
+      "monoSvg": "crypto/mono/bze.svg"
+    },
+    {
+      "symbol": "CALL",
+      "name": "Capital",
+      "color": "#fbb413",
+      "colorSvg": "crypto/color/call.svg",
+      "monoSvg": "crypto/mono/call.svg"
+    },
+    {
+      "symbol": "CC",
+      "name": "CoinCollect",
+      "color": "#36b0f3",
+      "colorSvg": "crypto/color/cc.svg",
+      "monoSvg": "crypto/mono/cc.svg"
+    },
+    {
+      "symbol": "CDN",
+      "name": "Canada eCoin",
+      "color": "#f70808",
+      "colorSvg": "crypto/color/cdn.svg",
+      "monoSvg": "crypto/mono/cdn.svg"
+    },
+    {
+      "symbol": "CDT",
+      "name": "Blox",
+      "color": "#272731",
+      "colorSvg": "crypto/color/cdt.svg",
+      "monoSvg": "crypto/mono/cdt.svg"
+    },
+    {
+      "symbol": "CHAIN",
+      "name": "Chainmakers",
+      "color": "#00aced",
+      "colorSvg": "crypto/color/chain.svg",
+      "monoSvg": "crypto/mono/chain.svg"
+    },
+    {
+      "symbol": "CHAT",
+      "name": "ChatCoin",
+      "color": "#1c98f7",
+      "colorSvg": "crypto/color/chat.svg",
+      "monoSvg": "crypto/mono/chat.svg"
+    },
+    {
+      "symbol": "CHIPS",
+      "name": "CHIPS",
+      "color": "#598182",
+      "colorSvg": "crypto/color/chips.svg",
+      "monoSvg": "crypto/mono/chips.svg"
+    },
+    {
+      "symbol": "CHSB",
+      "name": "SwissBorg",
+      "color": "#01c38d",
+      "colorSvg": "crypto/color/chsb.svg",
+      "monoSvg": "crypto/mono/chsb.svg"
+    },
+    {
+      "symbol": "CHZ",
+      "name": "Chiliz",
+      "color": "#cd0124",
+      "colorSvg": "crypto/color/chz.svg",
+      "monoSvg": "crypto/mono/chz.svg"
+    },
+    {
+      "symbol": "CIX",
+      "name": "Cryptonetix",
+      "color": "#0576b4",
+      "colorSvg": "crypto/color/cix.svg",
+      "monoSvg": "crypto/mono/cix.svg"
+    },
+    {
+      "symbol": "CLAM",
+      "name": "Clams",
+      "color": "#20c5d3",
+      "colorSvg": "crypto/color/clam.svg",
+      "monoSvg": "crypto/mono/clam.svg"
+    },
+    {
+      "symbol": "CLOAK",
+      "name": "Cloakcoin",
+      "color": "#ff3a00",
+      "colorSvg": "crypto/color/cloak.svg",
+      "monoSvg": "crypto/mono/cloak.svg"
+    },
+    {
+      "symbol": "CMM",
+      "name": "Commercium",
+      "color": "#2fd2e5",
+      "colorSvg": "crypto/color/cmm.svg",
+      "monoSvg": "crypto/mono/cmm.svg"
+    },
+    {
+      "symbol": "CMT",
+      "name": "Comet",
+      "color": "#c1a05c",
+      "colorSvg": "crypto/color/cmt.svg",
+      "monoSvg": "crypto/mono/cmt.svg"
+    },
+    {
+      "symbol": "CND",
+      "name": "Cindicator",
+      "color": "#383939",
+      "colorSvg": "crypto/color/cnd.svg",
+      "monoSvg": "crypto/mono/cnd.svg"
+    },
+    {
+      "symbol": "CNX",
+      "name": "Cryptonex",
+      "color": "#4c6bae",
+      "colorSvg": "crypto/color/cnx.svg",
+      "monoSvg": "crypto/mono/cnx.svg"
+    },
+    {
+      "symbol": "CNY",
+      "name": "CNY",
+      "color": "#ff4314",
+      "colorSvg": "crypto/color/cny.svg",
+      "monoSvg": "crypto/mono/cny.svg"
+    },
+    {
+      "symbol": "COB",
+      "name": "Cobinhood",
+      "color": "#13bf99",
+      "colorSvg": "crypto/color/cob.svg",
+      "monoSvg": "crypto/mono/cob.svg"
+    },
+    {
+      "symbol": "COLX",
+      "name": "ColossusXT",
+      "color": "#77c3b0",
+      "colorSvg": "crypto/color/colx.svg",
+      "monoSvg": "crypto/mono/colx.svg"
+    },
+    {
+      "symbol": "COMP",
+      "name": "Compound",
+      "color": "#00d395",
+      "colorSvg": "crypto/color/comp.svg",
+      "monoSvg": "crypto/mono/comp.svg"
+    },
+    {
+      "symbol": "COQUI",
+      "name": "COQUI Cash",
+      "color": "#71c800",
+      "colorSvg": "crypto/color/coqui.svg",
+      "monoSvg": "crypto/mono/coqui.svg"
+    },
+    {
+      "symbol": "CRED",
+      "name": "Verify",
+      "color": "#37e8a3",
+      "colorSvg": "crypto/color/cred.svg",
+      "monoSvg": "crypto/mono/cred.svg"
+    },
+    {
+      "symbol": "CRPT",
+      "name": "Crypterium",
+      "color": "#00bdcd",
+      "colorSvg": "crypto/color/crpt.svg",
+      "monoSvg": "crypto/mono/crpt.svg"
+    },
+    {
+      "symbol": "CRV",
+      "name": "Curve DAO Token",
+      "color": "#40649f",
+      "colorSvg": "crypto/color/crv.svg",
+      "monoSvg": "crypto/mono/crv.svg"
+    },
+    {
+      "symbol": "CRW",
+      "name": "Crown",
+      "color": "#0f1529",
+      "colorSvg": "crypto/color/crw.svg",
+      "monoSvg": "crypto/mono/crw.svg"
+    },
+    {
+      "symbol": "CS",
+      "name": "CREDITS",
+      "color": "#262626",
+      "colorSvg": "crypto/color/cs.svg",
+      "monoSvg": "crypto/mono/cs.svg"
+    },
+    {
+      "symbol": "CTR",
+      "name": "Centra",
+      "color": "#fdde6c",
+      "colorSvg": "crypto/color/ctr.svg",
+      "monoSvg": "crypto/mono/ctr.svg"
+    },
+    {
+      "symbol": "CTXC",
+      "name": "Cortex",
+      "color": "#000000",
+      "colorSvg": "crypto/color/ctxc.svg",
+      "monoSvg": "crypto/mono/ctxc.svg"
+    },
+    {
+      "symbol": "CVC",
+      "name": "Civic",
+      "color": "#3ab03e",
+      "colorSvg": "crypto/color/cvc.svg",
+      "monoSvg": "crypto/mono/cvc.svg"
+    },
+    {
+      "symbol": "D",
+      "name": "Denarius",
+      "color": "#b8b8b8",
+      "colorSvg": "crypto/color/d.svg",
+      "monoSvg": "crypto/mono/d.svg"
+    },
+    {
+      "symbol": "DAI",
+      "name": "Dai",
+      "color": "#f4b731",
+      "colorSvg": "crypto/color/dai.svg",
+      "monoSvg": "crypto/mono/dai.svg"
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "color": "#008ce7",
+      "colorSvg": "crypto/color/dash.svg",
+      "monoSvg": "crypto/mono/dash.svg"
+    },
+    {
+      "symbol": "DASH",
+      "name": "Dash",
+      "color": "#008ce7",
+      "colorSvg": "crypto/color/dash.svg",
+      "monoSvg": "crypto/mono/dash.svg"
+    },
+    {
+      "symbol": "DAT",
+      "name": "Datum",
+      "color": "#2d9cdb",
+      "colorSvg": "crypto/color/dat.svg",
+      "monoSvg": "crypto/mono/dat.svg"
+    },
+    {
+      "symbol": "DATA",
+      "name": "Streamr DATAcoin",
+      "color": "#e9570f",
+      "colorSvg": "crypto/color/data.svg",
+      "monoSvg": "crypto/mono/data.svg"
+    },
+    {
+      "symbol": "DBC",
+      "name": "DeepBrain Chain",
+      "color": "#5bc1d4",
+      "colorSvg": "crypto/color/dbc.svg",
+      "monoSvg": "crypto/mono/dbc.svg"
+    },
+    {
+      "symbol": "DCN",
+      "name": "Dentacoin",
+      "color": "#136485",
+      "colorSvg": "crypto/color/dcn.svg",
+      "monoSvg": "crypto/mono/dcn.svg"
+    },
+    {
+      "symbol": "DCR",
+      "name": "Decred",
+      "color": "#2ed6a1",
+      "colorSvg": "crypto/color/dcr.svg",
+      "monoSvg": "crypto/mono/dcr.svg"
+    },
+    {
+      "symbol": "DEEZ",
+      "name": "DeezNuts",
+      "color": "#939393",
+      "colorSvg": "crypto/color/deez.svg",
+      "monoSvg": "crypto/mono/deez.svg"
+    },
+    {
+      "symbol": "DENT",
+      "name": "Dent",
+      "color": "#666666",
+      "colorSvg": "crypto/color/dent.svg",
+      "monoSvg": "crypto/mono/dent.svg"
+    },
+    {
+      "symbol": "DEW",
+      "name": "DEW",
+      "color": "#fec907",
+      "colorSvg": "crypto/color/dew.svg",
+      "monoSvg": "crypto/mono/dew.svg"
+    },
+    {
+      "symbol": "DGB",
+      "name": "DigiByte",
+      "color": "#006ad2",
+      "colorSvg": "crypto/color/dgb.svg",
+      "monoSvg": "crypto/mono/dgb.svg"
+    },
+    {
+      "symbol": "DGD",
+      "name": "DigixDAO",
+      "color": "#f4d029",
+      "colorSvg": "crypto/color/dgd.svg",
+      "monoSvg": "crypto/mono/dgd.svg"
+    },
+    {
+      "symbol": "DLT",
+      "name": "Agrello",
+      "color": "#f4ae95",
+      "colorSvg": "crypto/color/dlt.svg",
+      "monoSvg": "crypto/mono/dlt.svg"
+    },
+    {
+      "symbol": "DNT",
+      "name": "district0x",
+      "color": "#2c398f",
+      "colorSvg": "crypto/color/dnt.svg",
+      "monoSvg": "crypto/mono/dnt.svg"
+    },
+    {
+      "symbol": "DOCK",
+      "name": "Dock",
+      "color": "#786dbc",
+      "colorSvg": "crypto/color/dock.svg",
+      "monoSvg": "crypto/mono/dock.svg"
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "color": "#c3a634",
+      "colorSvg": "crypto/color/doge.svg",
+      "monoSvg": "crypto/mono/doge.svg"
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "color": "#e6007a",
+      "colorSvg": "crypto/color/dot.svg",
+      "monoSvg": "crypto/mono/dot.svg"
+    },
+    {
+      "symbol": "DRGN",
+      "name": "Dragonchain",
+      "color": "#c91111",
+      "colorSvg": "crypto/color/drgn.svg",
+      "monoSvg": "crypto/mono/drgn.svg"
+    },
+    {
+      "symbol": "DROP",
+      "name": "Dropil",
+      "color": "#242d3d",
+      "colorSvg": "crypto/color/drop.svg",
+      "monoSvg": "crypto/mono/drop.svg"
+    },
+    {
+      "symbol": "DTA",
+      "name": "DATA",
+      "color": "#74d269",
+      "colorSvg": "crypto/color/dta.svg",
+      "monoSvg": "crypto/mono/dta.svg"
+    },
+    {
+      "symbol": "DTH",
+      "name": "Dether",
+      "color": "#3c80f1",
+      "colorSvg": "crypto/color/dth.svg",
+      "monoSvg": "crypto/mono/dth.svg"
+    },
+    {
+      "symbol": "DTR",
+      "name": "Dynamic Trading Rights",
+      "color": "#121747",
+      "colorSvg": "crypto/color/dtr.svg",
+      "monoSvg": "crypto/mono/dtr.svg"
+    },
+    {
+      "symbol": "EBST",
+      "name": "eBoost",
+      "color": "#1693d4",
+      "colorSvg": "crypto/color/ebst.svg",
+      "monoSvg": "crypto/mono/ebst.svg"
+    },
+    {
+      "symbol": "ECA",
+      "name": "Electra",
+      "color": "#aa15dd",
+      "colorSvg": "crypto/color/eca.svg",
+      "monoSvg": "crypto/mono/eca.svg"
+    },
+    {
+      "symbol": "EDG",
+      "name": "Edgeless",
+      "color": "#2b1544",
+      "colorSvg": "crypto/color/edg.svg",
+      "monoSvg": "crypto/mono/edg.svg"
+    },
+    {
+      "symbol": "EDO",
+      "name": "Eidoo",
+      "color": "#242424",
+      "colorSvg": "crypto/color/edo.svg",
+      "monoSvg": "crypto/mono/edo.svg"
+    },
+    {
+      "symbol": "EDOGE",
+      "name": "EtherDoge",
+      "color": "#0facf3",
+      "colorSvg": "crypto/color/edoge.svg",
+      "monoSvg": "crypto/mono/edoge.svg"
+    },
+    {
+      "symbol": "ELA",
+      "name": "Elastos",
+      "color": "#3fbadf",
+      "colorSvg": "crypto/color/ela.svg",
+      "monoSvg": "crypto/mono/ela.svg"
+    },
+    {
+      "symbol": "ELEC",
+      "name": "Electrify.Asia",
+      "color": "#ff9900",
+      "colorSvg": "crypto/color/elec.svg",
+      "monoSvg": "crypto/mono/elec.svg"
+    },
+    {
+      "symbol": "ELF",
+      "name": "aelf",
+      "color": "#2b5ebb",
+      "colorSvg": "crypto/color/elf.svg",
+      "monoSvg": "crypto/mono/elf.svg"
+    },
+    {
+      "symbol": "ELIX",
+      "name": "Elixir",
+      "color": "#00aded",
+      "colorSvg": "crypto/color/elix.svg",
+      "monoSvg": "crypto/mono/elix.svg"
+    },
+    {
+      "symbol": "ELLA",
+      "name": "Ellaism",
+      "color": "#396a28",
+      "colorSvg": "crypto/color/ella.svg",
+      "monoSvg": "crypto/mono/ella.svg"
+    },
+    {
+      "symbol": "EMB",
+      "name": "Emblem",
+      "color": "#f6c054",
+      "colorSvg": "crypto/color/emb.svg",
+      "monoSvg": "crypto/mono/emb.svg"
+    },
+    {
+      "symbol": "EMC",
+      "name": "EmerCoin",
+      "color": "#b49ffc",
+      "colorSvg": "crypto/color/emc.svg",
+      "monoSvg": "crypto/mono/emc.svg"
+    },
+    {
+      "symbol": "EMC2",
+      "name": "Einsteinium",
+      "color": "#00ccff",
+      "colorSvg": "crypto/color/emc2.svg",
+      "monoSvg": "crypto/mono/emc2.svg"
+    },
+    {
+      "symbol": "ENG",
+      "name": "Enigma",
+      "color": "#2f2f2f",
+      "colorSvg": "crypto/color/eng.svg",
+      "monoSvg": "crypto/mono/eng.svg"
+    },
+    {
+      "symbol": "ENJ",
+      "name": "Enjin Coin",
+      "color": "#624dbf",
+      "colorSvg": "crypto/color/enj.svg",
+      "monoSvg": "crypto/mono/enj.svg"
+    },
+    {
+      "symbol": "ENTRP",
+      "name": "Hut34 Entropy",
+      "color": "#fa5836",
+      "colorSvg": "crypto/color/entrp.svg",
+      "monoSvg": "crypto/mono/entrp.svg"
+    },
+    {
+      "symbol": "EON",
+      "name": "EOS Network",
+      "color": "#443f54",
+      "colorSvg": "crypto/color/eon.svg",
+      "monoSvg": "crypto/mono/eon.svg"
+    },
+    {
+      "symbol": "EOP",
+      "name": "EOP",
+      "color": "#35a7df",
+      "colorSvg": "crypto/color/eop.svg",
+      "monoSvg": "crypto/mono/eop.svg"
+    },
+    {
+      "symbol": "EOS",
+      "name": "EOS",
+      "color": "#000000",
+      "colorSvg": "crypto/color/eos.svg",
+      "monoSvg": "crypto/mono/eos.svg"
+    },
+    {
+      "symbol": "EQLI",
+      "name": "Equaliser",
+      "color": "#c9a35e",
+      "colorSvg": "crypto/color/eqli.svg",
+      "monoSvg": "crypto/mono/eqli.svg"
+    },
+    {
+      "symbol": "EQUA",
+      "name": "EQUA",
+      "color": "#f68922",
+      "colorSvg": "crypto/color/equa.svg",
+      "monoSvg": "crypto/mono/equa.svg"
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "color": "#328332",
+      "colorSvg": "crypto/color/etc.svg",
+      "monoSvg": "crypto/mono/etc.svg"
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "color": "#627eea",
+      "colorSvg": "crypto/color/eth.svg",
+      "monoSvg": "crypto/mono/eth.svg"
+    },
+    {
+      "symbol": "ETHOS",
+      "name": "Ethos",
+      "color": "#00ffba",
+      "colorSvg": "crypto/color/ethos.svg",
+      "monoSvg": "crypto/mono/ethos.svg"
+    },
+    {
+      "symbol": "ETN",
+      "name": "Electroneum",
+      "color": "#23bee2",
+      "colorSvg": "crypto/color/etn.svg",
+      "monoSvg": "crypto/mono/etn.svg"
+    },
+    {
+      "symbol": "ETP",
+      "name": "Metaverse ETP",
+      "color": "#00a5ff",
+      "colorSvg": "crypto/color/etp.svg",
+      "monoSvg": "crypto/mono/etp.svg"
+    },
+    {
+      "symbol": "EUR",
+      "name": "EUR",
+      "color": "#0f8ff8",
+      "colorSvg": "crypto/color/eur.svg",
+      "monoSvg": "crypto/mono/eur.svg"
+    },
+    {
+      "symbol": "EVX",
+      "name": "Everex",
+      "color": "#044aac",
+      "colorSvg": "crypto/color/evx.svg",
+      "monoSvg": "crypto/mono/evx.svg"
+    },
+    {
+      "symbol": "EXMO",
+      "name": "EXMO",
+      "color": "#347ffb",
+      "colorSvg": "crypto/color/exmo.svg",
+      "monoSvg": "crypto/mono/exmo.svg"
+    },
+    {
+      "symbol": "EXP",
+      "name": "Expanse",
+      "color": "#ffaa5c",
+      "colorSvg": "crypto/color/exp.svg",
+      "monoSvg": "crypto/mono/exp.svg"
+    },
+    {
+      "symbol": "FAIR",
+      "name": "Faircoin",
+      "color": "#c99705",
+      "colorSvg": "crypto/color/fair.svg",
+      "monoSvg": "crypto/mono/fair.svg"
+    },
+    {
+      "symbol": "FCT",
+      "name": "Factom",
+      "color": "#417ba4",
+      "colorSvg": "crypto/color/fct.svg",
+      "monoSvg": "crypto/mono/fct.svg"
+    },
+    {
+      "symbol": "FIDA",
+      "name": "Bonfida",
+      "color": "#7c7cff",
+      "colorSvg": "crypto/color/fida.svg",
+      "monoSvg": "crypto/mono/fida.svg"
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin [IOU]",
+      "color": "#42c1ca",
+      "colorSvg": "crypto/color/fil.svg",
+      "monoSvg": "crypto/mono/fil.svg"
+    },
+    {
+      "symbol": "FJC",
+      "name": "Fujicoin",
+      "color": "#00afec",
+      "colorSvg": "crypto/color/fjc.svg",
+      "monoSvg": "crypto/mono/fjc.svg"
+    },
+    {
+      "symbol": "FLDC",
+      "name": "Foldingcoin",
+      "color": "#c40e09",
+      "colorSvg": "crypto/color/fldc.svg",
+      "monoSvg": "crypto/mono/fldc.svg"
+    },
+    {
+      "symbol": "FLO",
+      "name": "FLO",
+      "color": "#2080a2",
+      "colorSvg": "crypto/color/flo.svg",
+      "monoSvg": "crypto/mono/flo.svg"
+    },
+    {
+      "symbol": "FLUX",
+      "name": "Flux",
+      "color": "#2b61d1",
+      "colorSvg": "crypto/color/flux.svg",
+      "monoSvg": "crypto/mono/flux.svg"
+    },
+    {
+      "symbol": "FSN",
+      "name": "FUSION",
+      "color": "#1d9ad7",
+      "colorSvg": "crypto/color/fsn.svg",
+      "monoSvg": "crypto/mono/fsn.svg"
+    },
+    {
+      "symbol": "FTC",
+      "name": "Feathercoin",
+      "color": "#27323a",
+      "colorSvg": "crypto/color/ftc.svg",
+      "monoSvg": "crypto/mono/ftc.svg"
+    },
+    {
+      "symbol": "FUEL",
+      "name": "Etherparty",
+      "color": "#4096d0",
+      "colorSvg": "crypto/color/fuel.svg",
+      "monoSvg": "crypto/mono/fuel.svg"
+    },
+    {
+      "symbol": "FUN",
+      "name": "FunFair",
+      "color": "#ed1968",
+      "colorSvg": "crypto/color/fun.svg",
+      "monoSvg": "crypto/mono/fun.svg"
+    },
+    {
+      "symbol": "GAME",
+      "name": "GameCredits",
+      "color": "#2d475b",
+      "colorSvg": "crypto/color/game.svg",
+      "monoSvg": "crypto/mono/game.svg"
+    },
+    {
+      "symbol": "GAS",
+      "name": "Gas",
+      "color": "#58bf00",
+      "colorSvg": "crypto/color/gas.svg",
+      "monoSvg": "crypto/mono/gas.svg"
+    },
+    {
+      "symbol": "GBP",
+      "name": "GBP",
+      "color": "#bc3fe0",
+      "colorSvg": "crypto/color/gbp.svg",
+      "monoSvg": "crypto/mono/gbp.svg"
+    },
+    {
+      "symbol": "GBX",
+      "name": "Globitex",
+      "color": "#1666af",
+      "colorSvg": "crypto/color/gbx.svg",
+      "monoSvg": "crypto/mono/gbx.svg"
+    },
+    {
+      "symbol": "GBYTE",
+      "name": "Obyte",
+      "color": "#302c2c",
+      "colorSvg": "crypto/color/gbyte.svg",
+      "monoSvg": "crypto/mono/gbyte.svg"
+    },
+    {
+      "symbol": "GENERIC",
+      "name": "GENERIC",
+      "color": "#efb914",
+      "colorSvg": "crypto/color/generic.svg",
+      "monoSvg": "crypto/mono/generic.svg"
+    },
+    {
+      "symbol": "GIN",
+      "name": "GINcoin",
+      "color": "#008dde",
+      "colorSvg": "crypto/color/gin.svg",
+      "monoSvg": "crypto/mono/gin.svg"
+    },
+    {
+      "symbol": "GLXT",
+      "name": "GLX Token",
+      "color": "#005396",
+      "colorSvg": "crypto/color/glxt.svg",
+      "monoSvg": "crypto/mono/glxt.svg"
+    },
+    {
+      "symbol": "GMR",
+      "name": "Gimmer",
+      "color": "#372d2c",
+      "colorSvg": "crypto/color/gmr.svg",
+      "monoSvg": "crypto/mono/gmr.svg"
+    },
+    {
+      "symbol": "GMT",
+      "name": "STEPN",
+      "color": "#dbb358",
+      "colorSvg": "crypto/color/gmt.svg",
+      "monoSvg": "crypto/mono/gmt.svg"
+    },
+    {
+      "symbol": "GNO",
+      "name": "Gnosis",
+      "color": "#00a6c4",
+      "colorSvg": "crypto/color/gno.svg",
+      "monoSvg": "crypto/mono/gno.svg"
+    },
+    {
+      "symbol": "GNT",
+      "name": "Golem",
+      "color": "#001d57",
+      "colorSvg": "crypto/color/gnt.svg",
+      "monoSvg": "crypto/mono/gnt.svg"
+    },
+    {
+      "symbol": "GOLD",
+      "name": "Dragonereum Gold",
+      "color": "#f1b32b",
+      "colorSvg": "crypto/color/gold.svg",
+      "monoSvg": "crypto/mono/gold.svg"
+    },
+    {
+      "symbol": "GRC",
+      "name": "Gridcoin",
+      "color": "#5411b3",
+      "colorSvg": "crypto/color/grc.svg",
+      "monoSvg": "crypto/mono/grc.svg"
+    },
+    {
+      "symbol": "GRIN",
+      "name": "Grin",
+      "color": "#fff300",
+      "colorSvg": "crypto/color/grin.svg",
+      "monoSvg": "crypto/mono/grin.svg"
+    },
+    {
+      "symbol": "GRS",
+      "name": "Groestlcoin",
+      "color": "#377e96",
+      "colorSvg": "crypto/color/grs.svg",
+      "monoSvg": "crypto/mono/grs.svg"
+    },
+    {
+      "symbol": "GRT",
+      "name": "The Graph",
+      "color": "#5942cc",
+      "colorSvg": "crypto/color/grt.svg",
+      "monoSvg": "crypto/mono/grt.svg"
+    },
+    {
+      "symbol": "GSC",
+      "name": "Global Social Chain",
+      "color": "#ff0060",
+      "colorSvg": "crypto/color/gsc.svg",
+      "monoSvg": "crypto/mono/gsc.svg"
+    },
+    {
+      "symbol": "GTO",
+      "name": "Gifto",
+      "color": "#7f27ff",
+      "colorSvg": "crypto/color/gto.svg",
+      "monoSvg": "crypto/mono/gto.svg"
+    },
+    {
+      "symbol": "GUP",
+      "name": "Guppy",
+      "color": "#37dcd8",
+      "colorSvg": "crypto/color/gup.svg",
+      "monoSvg": "crypto/mono/gup.svg"
+    },
+    {
+      "symbol": "GUSD",
+      "name": "Gemini dollar",
+      "color": "#00dcfa",
+      "colorSvg": "crypto/color/gusd.svg",
+      "monoSvg": "crypto/mono/gusd.svg"
+    },
+    {
+      "symbol": "GVT",
+      "name": "Genesis Vision",
+      "color": "#16b9ad",
+      "colorSvg": "crypto/color/gvt.svg",
+      "monoSvg": "crypto/mono/gvt.svg"
+    },
+    {
+      "symbol": "GXS",
+      "name": "GXChain",
+      "color": "#35a5f3",
+      "colorSvg": "crypto/color/gxs.svg",
+      "monoSvg": "crypto/mono/gxs.svg"
+    },
+    {
+      "symbol": "GZR",
+      "name": "Gizer",
+      "color": "#56c9e9",
+      "colorSvg": "crypto/color/gzr.svg",
+      "monoSvg": "crypto/mono/gzr.svg"
+    },
+    {
+      "symbol": "HIGHT",
+      "name": "Highcoin",
+      "color": "#117fc0",
+      "colorSvg": "crypto/color/hight.svg",
+      "monoSvg": "crypto/mono/hight.svg"
+    },
+    {
+      "symbol": "HNS",
+      "name": "Handshake",
+      "color": "#000000",
+      "colorSvg": "crypto/color/hns.svg",
+      "monoSvg": "crypto/mono/hns.svg"
+    },
+    {
+      "symbol": "HODL",
+      "name": "HOdlcoin",
+      "color": "#d59143",
+      "colorSvg": "crypto/color/hodl.svg",
+      "monoSvg": "crypto/mono/hodl.svg"
+    },
+    {
+      "symbol": "HOT",
+      "name": "Holo",
+      "color": "#8834ff",
+      "colorSvg": "crypto/color/hot.svg",
+      "monoSvg": "crypto/mono/hot.svg"
+    },
+    {
+      "symbol": "HPB",
+      "name": "High Performance Blockchain",
+      "color": "#1591ca",
+      "colorSvg": "crypto/color/hpb.svg",
+      "monoSvg": "crypto/mono/hpb.svg"
+    },
+    {
+      "symbol": "HSR",
+      "name": "HShare",
+      "color": "#56428e",
+      "colorSvg": "crypto/color/hsr.svg",
+      "monoSvg": "crypto/mono/hsr.svg"
+    },
+    {
+      "symbol": "HT",
+      "name": "HOTTO",
+      "color": "#2a3069",
+      "colorSvg": "crypto/color/ht.svg",
+      "monoSvg": "crypto/mono/ht.svg"
+    },
+    {
+      "symbol": "HTML",
+      "name": "HTMLCOIN",
+      "color": "#cfa967",
+      "colorSvg": "crypto/color/html.svg",
+      "monoSvg": "crypto/mono/html.svg"
+    },
+    {
+      "symbol": "HUC",
+      "name": "Huntercoin",
+      "color": "#ffc018",
+      "colorSvg": "crypto/color/huc.svg",
+      "monoSvg": "crypto/mono/huc.svg"
+    },
+    {
+      "symbol": "HUSD",
+      "name": "HUSD",
+      "color": "#005ffa",
+      "colorSvg": "crypto/color/husd.svg",
+      "monoSvg": "crypto/mono/husd.svg"
+    },
+    {
+      "symbol": "HUSH",
+      "name": "Hush",
+      "color": "#292929",
+      "colorSvg": "crypto/color/hush.svg",
+      "monoSvg": "crypto/mono/hush.svg"
+    },
+    {
+      "symbol": "ICN",
+      "name": "Iconomi",
+      "color": "#4c6f8c",
+      "colorSvg": "crypto/color/icn.svg",
+      "monoSvg": "crypto/mono/icn.svg"
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "color": "#292a2e",
+      "colorSvg": "crypto/color/icp.svg",
+      "monoSvg": "crypto/mono/icp.svg"
+    },
+    {
+      "symbol": "ICX",
+      "name": "ICON",
+      "color": "#1fc5c9",
+      "colorSvg": "crypto/color/icx.svg",
+      "monoSvg": "crypto/mono/icx.svg"
+    },
+    {
+      "symbol": "IGNIS",
+      "name": "Ignis",
+      "color": "#f9c011",
+      "colorSvg": "crypto/color/ignis.svg",
+      "monoSvg": "crypto/mono/ignis.svg"
+    },
+    {
+      "symbol": "ILK",
+      "name": "Inlock Token",
+      "color": "#98c23a",
+      "colorSvg": "crypto/color/ilk.svg",
+      "monoSvg": "crypto/mono/ilk.svg"
+    },
+    {
+      "symbol": "INK",
+      "name": "Ink",
+      "color": "#df1a14",
+      "colorSvg": "crypto/color/ink.svg",
+      "monoSvg": "crypto/mono/ink.svg"
+    },
+    {
+      "symbol": "INS",
+      "name": "Insolar",
+      "color": "#b2a3f6",
+      "colorSvg": "crypto/color/ins.svg",
+      "monoSvg": "crypto/mono/ins.svg"
+    },
+    {
+      "symbol": "ION",
+      "name": "ION",
+      "color": "#57beea",
+      "colorSvg": "crypto/color/ion.svg",
+      "monoSvg": "crypto/mono/ion.svg"
+    },
+    {
+      "symbol": "IOP",
+      "name": "Internet of People",
+      "color": "#0cafa5",
+      "colorSvg": "crypto/color/iop.svg",
+      "monoSvg": "crypto/mono/iop.svg"
+    },
+    {
+      "symbol": "IOST",
+      "name": "IOStoken",
+      "color": "#1c1c1c",
+      "colorSvg": "crypto/color/iost.svg",
+      "monoSvg": "crypto/mono/iost.svg"
+    },
+    {
+      "symbol": "IOTX",
+      "name": "IoTeX",
+      "color": "#00d4d5",
+      "colorSvg": "crypto/color/iotx.svg",
+      "monoSvg": "crypto/mono/iotx.svg"
+    },
+    {
+      "symbol": "IQ",
+      "name": "Everipedia",
+      "color": "#55ddff",
+      "colorSvg": "crypto/color/iq.svg",
+      "monoSvg": "crypto/mono/iq.svg"
+    },
+    {
+      "symbol": "ITC",
+      "name": "IoT Chain",
+      "color": "#102044",
+      "colorSvg": "crypto/color/itc.svg",
+      "monoSvg": "crypto/mono/itc.svg"
+    },
+    {
+      "symbol": "JNT",
+      "name": "Jibrel Network",
+      "color": "#0050db",
+      "colorSvg": "crypto/color/jnt.svg",
+      "monoSvg": "crypto/mono/jnt.svg"
+    },
+    {
+      "symbol": "JPY",
+      "name": "JPY",
+      "color": "#eac749",
+      "colorSvg": "crypto/color/jpy.svg",
+      "monoSvg": "crypto/mono/jpy.svg"
+    },
+    {
+      "symbol": "KCS",
+      "name": "KuCoin Shares",
+      "color": "#0093dd",
+      "colorSvg": "crypto/color/kcs.svg",
+      "monoSvg": "crypto/mono/kcs.svg"
+    },
+    {
+      "symbol": "KIN",
+      "name": "Kin",
+      "color": "#005fff",
+      "colorSvg": "crypto/color/kin.svg",
+      "monoSvg": "crypto/mono/kin.svg"
+    },
+    {
+      "symbol": "KLOWN",
+      "name": "Ether Clown",
+      "color": "#ea0017",
+      "colorSvg": "crypto/color/klown.svg",
+      "monoSvg": "crypto/mono/klown.svg"
+    },
+    {
+      "symbol": "KMD",
+      "name": "Komodo",
+      "color": "#2b6680",
+      "colorSvg": "crypto/color/kmd.svg",
+      "monoSvg": "crypto/mono/kmd.svg"
+    },
+    {
+      "symbol": "KNC",
+      "name": "Kyber Network",
+      "color": "#31cb9e",
+      "colorSvg": "crypto/color/knc.svg",
+      "monoSvg": "crypto/mono/knc.svg"
+    },
+    {
+      "symbol": "KRB",
+      "name": "Karbo",
+      "color": "#00aeef",
+      "colorSvg": "crypto/color/krb.svg",
+      "monoSvg": "crypto/mono/krb.svg"
+    },
+    {
+      "symbol": "KSM",
+      "name": "Kusama",
+      "color": "#000000",
+      "colorSvg": "crypto/color/ksm.svg",
+      "monoSvg": "crypto/mono/ksm.svg"
+    },
+    {
+      "symbol": "LBC",
+      "name": "LBRY Credits",
+      "color": "#006149",
+      "colorSvg": "crypto/color/lbc.svg",
+      "monoSvg": "crypto/mono/lbc.svg"
+    },
+    {
+      "symbol": "LEND",
+      "name": "ETHLend",
+      "color": "#0fa9c9",
+      "colorSvg": "crypto/color/lend.svg",
+      "monoSvg": "crypto/mono/lend.svg"
+    },
+    {
+      "symbol": "LEO",
+      "name": "Unus Sed LEO",
+      "color": "#11021e",
+      "colorSvg": "crypto/color/leo.svg",
+      "monoSvg": "crypto/mono/leo.svg"
+    },
+    {
+      "symbol": "LINK",
+      "name": "ChainLink",
+      "color": "#2a5ada",
+      "colorSvg": "crypto/color/link.svg",
+      "monoSvg": "crypto/mono/link.svg"
+    },
+    {
+      "symbol": "LKK",
+      "name": "Lykke",
+      "color": "#9d01eb",
+      "colorSvg": "crypto/color/lkk.svg",
+      "monoSvg": "crypto/mono/lkk.svg"
+    },
+    {
+      "symbol": "LOOM",
+      "name": "Loom Network",
+      "color": "#48beff",
+      "colorSvg": "crypto/color/loom.svg",
+      "monoSvg": "crypto/mono/loom.svg"
+    },
+    {
+      "symbol": "LPT",
+      "name": "Livepeer Token",
+      "color": "#000000",
+      "colorSvg": "crypto/color/lpt.svg",
+      "monoSvg": "crypto/mono/lpt.svg"
+    },
+    {
+      "symbol": "LRC",
+      "name": "Loopring",
+      "color": "#2ab6f6",
+      "colorSvg": "crypto/color/lrc.svg",
+      "monoSvg": "crypto/mono/lrc.svg"
+    },
+    {
+      "symbol": "LSK",
+      "name": "Lisk",
+      "color": "#0d4ea0",
+      "colorSvg": "crypto/color/lsk.svg",
+      "monoSvg": "crypto/mono/lsk.svg"
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "color": "#bfbbbb",
+      "colorSvg": "crypto/color/ltc.svg",
+      "monoSvg": "crypto/mono/ltc.svg"
+    },
+    {
+      "symbol": "LUN",
+      "name": "Lunyr",
+      "color": "#f55749",
+      "colorSvg": "crypto/color/lun.svg",
+      "monoSvg": "crypto/mono/lun.svg"
+    },
+    {
+      "symbol": "MAID",
+      "name": "MaidSafeCoin",
+      "color": "#5592d7",
+      "colorSvg": "crypto/color/maid.svg",
+      "monoSvg": "crypto/mono/maid.svg"
+    },
+    {
+      "symbol": "MANA",
+      "name": "Decentraland",
+      "color": "#ff2d55",
+      "colorSvg": "crypto/color/mana.svg",
+      "monoSvg": "crypto/mono/mana.svg"
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon",
+      "color": "#6f41d8",
+      "colorSvg": "crypto/color/matic.svg",
+      "monoSvg": "crypto/mono/matic.svg"
+    },
+    {
+      "symbol": "MATIC",
+      "name": "Polygon",
+      "color": "#6f41d8",
+      "colorSvg": "crypto/color/matic.svg",
+      "monoSvg": "crypto/mono/matic.svg"
+    },
+    {
+      "symbol": "MAX",
+      "name": "MAX Token",
+      "color": "#2d4692",
+      "colorSvg": "crypto/color/max.svg",
+      "monoSvg": "crypto/mono/max.svg"
+    },
+    {
+      "symbol": "MCAP",
+      "name": "MCAP",
+      "color": "#033b4a",
+      "colorSvg": "crypto/color/mcap.svg",
+      "monoSvg": "crypto/mono/mcap.svg"
+    },
+    {
+      "symbol": "MCO",
+      "name": "Crypto.com",
+      "color": "#103f68",
+      "colorSvg": "crypto/color/mco.svg",
+      "monoSvg": "crypto/mono/mco.svg"
+    },
+    {
+      "symbol": "MDA",
+      "name": "Moeda Loyalty Points",
+      "color": "#01a64f",
+      "colorSvg": "crypto/color/mda.svg",
+      "monoSvg": "crypto/mono/mda.svg"
+    },
+    {
+      "symbol": "MDS",
+      "name": "MediShares",
+      "color": "#1e252c",
+      "colorSvg": "crypto/color/mds.svg",
+      "monoSvg": "crypto/mono/mds.svg"
+    },
+    {
+      "symbol": "MED",
+      "name": "Medibloc",
+      "color": "#00b0ff",
+      "colorSvg": "crypto/color/med.svg",
+      "monoSvg": "crypto/mono/med.svg"
+    },
+    {
+      "symbol": "MEETONE",
+      "name": "MEET.ONE",
+      "color": "#000000",
+      "colorSvg": "crypto/color/meetone.svg",
+      "monoSvg": "crypto/mono/meetone.svg"
+    },
+    {
+      "symbol": "MFT",
+      "name": "Mainframe",
+      "color": "#da1157",
+      "colorSvg": "crypto/color/mft.svg",
+      "monoSvg": "crypto/mono/mft.svg"
+    },
+    {
+      "symbol": "MIOTA",
+      "name": "IOTA",
+      "color": "#242424",
+      "colorSvg": "crypto/color/miota.svg",
+      "monoSvg": "crypto/mono/miota.svg"
+    },
+    {
+      "symbol": "MITH",
+      "name": "Mithril",
+      "color": "#00316d",
+      "colorSvg": "crypto/color/mith.svg",
+      "monoSvg": "crypto/mono/mith.svg"
+    },
+    {
+      "symbol": "MKR",
+      "name": "Maker",
+      "color": "#1aab9b",
+      "colorSvg": "crypto/color/mkr.svg",
+      "monoSvg": "crypto/mono/mkr.svg"
+    },
+    {
+      "symbol": "MLN",
+      "name": "Melon",
+      "color": "#0b1529",
+      "colorSvg": "crypto/color/mln.svg",
+      "monoSvg": "crypto/mono/mln.svg"
+    },
+    {
+      "symbol": "MNX",
+      "name": "MinexCoin",
+      "color": "#00adef",
+      "colorSvg": "crypto/color/mnx.svg",
+      "monoSvg": "crypto/mono/mnx.svg"
+    },
+    {
+      "symbol": "MNZ",
+      "name": "MNZ",
+      "color": "#7f368a",
+      "colorSvg": "crypto/color/mnz.svg",
+      "monoSvg": "crypto/mono/mnz.svg"
+    },
+    {
+      "symbol": "MOAC",
+      "name": "MOAC",
+      "color": "#000000",
+      "colorSvg": "crypto/color/moac.svg",
+      "monoSvg": "crypto/mono/moac.svg"
+    },
+    {
+      "symbol": "MOD",
+      "name": "Modum",
+      "color": "#09547d",
+      "colorSvg": "crypto/color/mod.svg",
+      "monoSvg": "crypto/mono/mod.svg"
+    },
+    {
+      "symbol": "MONA",
+      "name": "MonaCoin",
+      "color": "#dec799",
+      "colorSvg": "crypto/color/mona.svg",
+      "monoSvg": "crypto/mono/mona.svg"
+    },
+    {
+      "symbol": "MSR",
+      "name": "Masari",
+      "color": "#47b95c",
+      "colorSvg": "crypto/color/msr.svg",
+      "monoSvg": "crypto/mono/msr.svg"
+    },
+    {
+      "symbol": "MTH",
+      "name": "Monetha",
+      "color": "#104fca",
+      "colorSvg": "crypto/color/mth.svg",
+      "monoSvg": "crypto/mono/mth.svg"
+    },
+    {
+      "symbol": "MTL",
+      "name": "Metal",
+      "color": "#1e1f25",
+      "colorSvg": "crypto/color/mtl.svg",
+      "monoSvg": "crypto/mono/mtl.svg"
+    },
+    {
+      "symbol": "MUSIC",
+      "name": "Musicoin",
+      "color": "#ffffff",
+      "colorSvg": "crypto/color/music.svg",
+      "monoSvg": "crypto/mono/music.svg"
+    },
+    {
+      "symbol": "MZC",
+      "name": "MAZA",
+      "color": "#ffaa05",
+      "colorSvg": "crypto/color/mzc.svg",
+      "monoSvg": "crypto/mono/mzc.svg"
+    },
+    {
+      "symbol": "NANO",
+      "name": "Nano",
+      "color": "#4a90e2",
+      "colorSvg": "crypto/color/nano.svg",
+      "monoSvg": "crypto/mono/nano.svg"
+    },
+    {
+      "symbol": "NAS",
+      "name": "Nebulas",
+      "color": "#222222",
+      "colorSvg": "crypto/color/nas.svg",
+      "monoSvg": "crypto/mono/nas.svg"
+    },
+    {
+      "symbol": "NAV",
+      "name": "NavCoin",
+      "color": "#7d59b5",
+      "colorSvg": "crypto/color/nav.svg",
+      "monoSvg": "crypto/mono/nav.svg"
+    },
+    {
+      "symbol": "NCASH",
+      "name": "Nucleus Vision",
+      "color": "#36a9cf",
+      "colorSvg": "crypto/color/ncash.svg",
+      "monoSvg": "crypto/mono/ncash.svg"
+    },
+    {
+      "symbol": "NDZ",
+      "name": "NDZ",
+      "color": "#622fba",
+      "colorSvg": "crypto/color/ndz.svg",
+      "monoSvg": "crypto/mono/ndz.svg"
+    },
+    {
+      "symbol": "NEBL",
+      "name": "Neblio",
+      "color": "#50479e",
+      "colorSvg": "crypto/color/nebl.svg",
+      "monoSvg": "crypto/mono/nebl.svg"
+    },
+    {
+      "symbol": "NEO",
+      "name": "NEO",
+      "color": "#58bf00",
+      "colorSvg": "crypto/color/neo.svg",
+      "monoSvg": "crypto/mono/neo.svg"
+    },
+    {
+      "symbol": "NEOS",
+      "name": "Neoscoin",
+      "color": "#e5f300",
+      "colorSvg": "crypto/color/neos.svg",
+      "monoSvg": "crypto/mono/neos.svg"
+    },
+    {
+      "symbol": "NEU",
+      "name": "Neumark",
+      "color": "#b3ba00",
+      "colorSvg": "crypto/color/neu.svg",
+      "monoSvg": "crypto/mono/neu.svg"
+    },
+    {
+      "symbol": "NEXO",
+      "name": "Nexo",
+      "color": "#1a4199",
+      "colorSvg": "crypto/color/nexo.svg",
+      "monoSvg": "crypto/mono/nexo.svg"
+    },
+    {
+      "symbol": "NGC",
+      "name": "NAGA",
+      "color": "#f80000",
+      "colorSvg": "crypto/color/ngc.svg",
+      "monoSvg": "crypto/mono/ngc.svg"
+    },
+    {
+      "symbol": "NIO",
+      "name": "Autonio",
+      "color": "#70c9c9",
+      "colorSvg": "crypto/color/nio.svg",
+      "monoSvg": "crypto/mono/nio.svg"
+    },
+    {
+      "symbol": "NKN",
+      "name": "NKN",
+      "color": "#23336f",
+      "colorSvg": "crypto/color/nkn.svg",
+      "monoSvg": "crypto/mono/nkn.svg"
+    },
+    {
+      "symbol": "NLC2",
+      "name": "NoLimitCoin",
+      "color": "#f28f01",
+      "colorSvg": "crypto/color/nlc2.svg",
+      "monoSvg": "crypto/mono/nlc2.svg"
+    },
+    {
+      "symbol": "NLG",
+      "name": "Gulden",
+      "color": "#2ab0fd",
+      "colorSvg": "crypto/color/nlg.svg",
+      "monoSvg": "crypto/mono/nlg.svg"
+    },
+    {
+      "symbol": "NMC",
+      "name": "Namecoin",
+      "color": "#186c9d",
+      "colorSvg": "crypto/color/nmc.svg",
+      "monoSvg": "crypto/mono/nmc.svg"
+    },
+    {
+      "symbol": "NMR",
+      "name": "Numeraire",
+      "color": "#050708",
+      "colorSvg": "crypto/color/nmr.svg",
+      "monoSvg": "crypto/mono/nmr.svg"
+    },
+    {
+      "symbol": "NPXS",
+      "name": "Pundi X",
+      "color": "#f5d100",
+      "colorSvg": "crypto/color/npxs.svg",
+      "monoSvg": "crypto/mono/npxs.svg"
+    },
+    {
+      "symbol": "NTBC",
+      "name": "Note Blockchain",
+      "color": "#eec315",
+      "colorSvg": "crypto/color/ntbc.svg",
+      "monoSvg": "crypto/mono/ntbc.svg"
+    },
+    {
+      "symbol": "NULS",
+      "name": "Nuls",
+      "color": "#82bd39",
+      "colorSvg": "crypto/color/nuls.svg",
+      "monoSvg": "crypto/mono/nuls.svg"
+    },
+    {
+      "symbol": "NXS",
+      "name": "Nexus",
+      "color": "#4099cd",
+      "colorSvg": "crypto/color/nxs.svg",
+      "monoSvg": "crypto/mono/nxs.svg"
+    },
+    {
+      "symbol": "NXT",
+      "name": "NXT",
+      "color": "#008fbb",
+      "colorSvg": "crypto/color/nxt.svg",
+      "monoSvg": "crypto/mono/nxt.svg"
+    },
+    {
+      "symbol": "OAX",
+      "name": "OpenANX",
+      "color": "#164b79",
+      "colorSvg": "crypto/color/oax.svg",
+      "monoSvg": "crypto/mono/oax.svg"
+    },
+    {
+      "symbol": "OK",
+      "name": "OKCash",
+      "color": "#000000",
+      "colorSvg": "crypto/color/ok.svg",
+      "monoSvg": "crypto/mono/ok.svg"
+    },
+    {
+      "symbol": "OMG",
+      "name": "OMG Network",
+      "color": "#101010",
+      "colorSvg": "crypto/color/omg.svg",
+      "monoSvg": "crypto/mono/omg.svg"
+    },
+    {
+      "symbol": "OMNI",
+      "name": "Omni",
+      "color": "#1c347a",
+      "colorSvg": "crypto/color/omni.svg",
+      "monoSvg": "crypto/mono/omni.svg"
+    },
+    {
+      "symbol": "ONE",
+      "name": "Harmony",
+      "color": "#00aee9",
+      "colorSvg": "crypto/color/one.svg",
+      "monoSvg": "crypto/mono/one.svg"
+    },
+    {
+      "symbol": "ONG",
+      "name": "SoMee.Social",
+      "color": "#000000",
+      "colorSvg": "crypto/color/ong.svg",
+      "monoSvg": "crypto/mono/ong.svg"
+    },
+    {
+      "symbol": "ONT",
+      "name": "Ontology",
+      "color": "#32a4be",
+      "colorSvg": "crypto/color/ont.svg",
+      "monoSvg": "crypto/mono/ont.svg"
+    },
+    {
+      "symbol": "OOT",
+      "name": "Utrum",
+      "color": "#25aae1",
+      "colorSvg": "crypto/color/oot.svg",
+      "monoSvg": "crypto/mono/oot.svg"
+    },
+    {
+      "symbol": "OST",
+      "name": "OST",
+      "color": "#34445b",
+      "colorSvg": "crypto/color/ost.svg",
+      "monoSvg": "crypto/mono/ost.svg"
+    },
+    {
+      "symbol": "OST",
+      "name": "OST",
+      "color": "#34445b",
+      "colorSvg": "crypto/color/ost.svg",
+      "monoSvg": "crypto/mono/ost.svg"
+    },
+    {
+      "symbol": "OX",
+      "name": "OX Fina",
+      "color": "#4392cd",
+      "colorSvg": "crypto/color/ox.svg",
+      "monoSvg": "crypto/mono/ox.svg"
+    },
+    {
+      "symbol": "OXT",
+      "name": "Orchid",
+      "color": "#5f45ba",
+      "colorSvg": "crypto/color/oxt.svg",
+      "monoSvg": "crypto/mono/oxt.svg"
+    },
+    {
+      "symbol": "OXY",
+      "name": "Oxygen",
+      "color": "#2261f6",
+      "colorSvg": "crypto/color/oxy.svg",
+      "monoSvg": "crypto/mono/oxy.svg"
+    },
+    {
+      "symbol": "PART",
+      "name": "Particl",
+      "color": "#65cb8d",
+      "colorSvg": "crypto/color/part.svg",
+      "monoSvg": "crypto/mono/part.svg"
+    },
+    {
+      "symbol": "PASC",
+      "name": "Pascalcoin",
+      "color": "#f7931e",
+      "colorSvg": "crypto/color/pasc.svg",
+      "monoSvg": "crypto/mono/pasc.svg"
+    },
+    {
+      "symbol": "PASL",
+      "name": "Pascal Lite",
+      "color": "#00acff",
+      "colorSvg": "crypto/color/pasl.svg",
+      "monoSvg": "crypto/mono/pasl.svg"
+    },
+    {
+      "symbol": "PAX",
+      "name": "PAX Token",
+      "color": "#398260",
+      "colorSvg": "crypto/color/pax.svg",
+      "monoSvg": "crypto/mono/pax.svg"
+    },
+    {
+      "symbol": "PAXG",
+      "name": "PAX Gold",
+      "color": "#e4ce4d",
+      "colorSvg": "crypto/color/paxg.svg",
+      "monoSvg": "crypto/mono/paxg.svg"
+    },
+    {
+      "symbol": "PAY",
+      "name": "TenX",
+      "color": "#302c2c",
+      "colorSvg": "crypto/color/pay.svg",
+      "monoSvg": "crypto/mono/pay.svg"
+    },
+    {
+      "symbol": "PAYX",
+      "name": "Paypex",
+      "color": "#663300",
+      "colorSvg": "crypto/color/payx.svg",
+      "monoSvg": "crypto/mono/payx.svg"
+    },
+    {
+      "symbol": "PINK",
+      "name": "Pinkcoin",
+      "color": "#ed79aa",
+      "colorSvg": "crypto/color/pink.svg",
+      "monoSvg": "crypto/mono/pink.svg"
+    },
+    {
+      "symbol": "PIRL",
+      "name": "Pirl",
+      "color": "#96b73d",
+      "colorSvg": "crypto/color/pirl.svg",
+      "monoSvg": "crypto/mono/pirl.svg"
+    },
+    {
+      "symbol": "PIVX",
+      "name": "PIVX",
+      "color": "#5e4778",
+      "colorSvg": "crypto/color/pivx.svg",
+      "monoSvg": "crypto/mono/pivx.svg"
+    },
+    {
+      "symbol": "PLR",
+      "name": "Pillar",
+      "color": "#00bfff",
+      "colorSvg": "crypto/color/plr.svg",
+      "monoSvg": "crypto/mono/plr.svg"
+    },
+    {
+      "symbol": "POA",
+      "name": "POA Network",
+      "color": "#444fa1",
+      "colorSvg": "crypto/color/poa.svg",
+      "monoSvg": "crypto/mono/poa.svg"
+    },
+    {
+      "symbol": "POE",
+      "name": "Po.et",
+      "color": "#dcd6cc",
+      "colorSvg": "crypto/color/poe.svg",
+      "monoSvg": "crypto/mono/poe.svg"
+    },
+    {
+      "symbol": "POLIS",
+      "name": "Polis",
+      "color": "#2c3e50",
+      "colorSvg": "crypto/color/polis.svg",
+      "monoSvg": "crypto/mono/polis.svg"
+    },
+    {
+      "symbol": "POLY",
+      "name": "Polymath Network",
+      "color": "#4c5a95",
+      "colorSvg": "crypto/color/poly.svg",
+      "monoSvg": "crypto/mono/poly.svg"
+    },
+    {
+      "symbol": "POT",
+      "name": "Potcoin",
+      "color": "#105b2f",
+      "colorSvg": "crypto/color/pot.svg",
+      "monoSvg": "crypto/mono/pot.svg"
+    },
+    {
+      "symbol": "POWR",
+      "name": "Power Ledger",
+      "color": "#05bca9",
+      "colorSvg": "crypto/color/powr.svg",
+      "monoSvg": "crypto/mono/powr.svg"
+    },
+    {
+      "symbol": "PPC",
+      "name": "Peercoin",
+      "color": "#3cb054",
+      "colorSvg": "crypto/color/ppc.svg",
+      "monoSvg": "crypto/mono/ppc.svg"
+    },
+    {
+      "symbol": "PPP",
+      "name": "PayPie",
+      "color": "#348f8d",
+      "colorSvg": "crypto/color/ppp.svg",
+      "monoSvg": "crypto/mono/ppp.svg"
+    },
+    {
+      "symbol": "PPT",
+      "name": "Populous",
+      "color": "#152743",
+      "colorSvg": "crypto/color/ppt.svg",
+      "monoSvg": "crypto/mono/ppt.svg"
+    },
+    {
+      "symbol": "PRE",
+      "name": "Presearch",
+      "color": "#3a8cbd",
+      "colorSvg": "crypto/color/pre.svg",
+      "monoSvg": "crypto/mono/pre.svg"
+    },
+    {
+      "symbol": "PRL",
+      "name": "Oyster",
+      "color": "#1061e3",
+      "colorSvg": "crypto/color/prl.svg",
+      "monoSvg": "crypto/mono/prl.svg"
+    },
+    {
+      "symbol": "PUNGO",
+      "name": "Pungo Token",
+      "color": "#22b573",
+      "colorSvg": "crypto/color/pungo.svg",
+      "monoSvg": "crypto/mono/pungo.svg"
+    },
+    {
+      "symbol": "PURA",
+      "name": "Pura",
+      "color": "#333333",
+      "colorSvg": "crypto/color/pura.svg",
+      "monoSvg": "crypto/mono/pura.svg"
+    },
+    {
+      "symbol": "QASH",
+      "name": "QASH",
+      "color": "#1347e8",
+      "colorSvg": "crypto/color/qash.svg",
+      "monoSvg": "crypto/mono/qash.svg"
+    },
+    {
+      "symbol": "QIWI",
+      "name": "QIWI",
+      "color": "#ff8c00",
+      "colorSvg": "crypto/color/qiwi.svg",
+      "monoSvg": "crypto/mono/qiwi.svg"
+    },
+    {
+      "symbol": "QLC",
+      "name": "QLC Chain",
+      "color": "#610089",
+      "colorSvg": "crypto/color/qlc.svg",
+      "monoSvg": "crypto/mono/qlc.svg"
+    },
+    {
+      "symbol": "QNT",
+      "name": "Quant",
+      "color": "#000000",
+      "colorSvg": "crypto/color/qnt.svg",
+      "monoSvg": "crypto/mono/qnt.svg"
+    },
+    {
+      "symbol": "QRL",
+      "name": "Quantum Resistant Ledger",
+      "color": "#252525",
+      "colorSvg": "crypto/color/qrl.svg",
+      "monoSvg": "crypto/mono/qrl.svg"
+    },
+    {
+      "symbol": "QSP",
+      "name": "Quantstamp",
+      "color": "#454545",
+      "colorSvg": "crypto/color/qsp.svg",
+      "monoSvg": "crypto/mono/qsp.svg"
+    },
+    {
+      "symbol": "QTUM",
+      "name": "Qtum",
+      "color": "#2e9ad0",
+      "colorSvg": "crypto/color/qtum.svg",
+      "monoSvg": "crypto/mono/qtum.svg"
+    },
+    {
+      "symbol": "R",
+      "name": "Revain",
+      "color": "#771a4e",
+      "colorSvg": "crypto/color/r.svg",
+      "monoSvg": "crypto/mono/r.svg"
+    },
+    {
+      "symbol": "RADS",
+      "name": "Radium",
+      "color": "#9d4bef",
+      "colorSvg": "crypto/color/rads.svg",
+      "monoSvg": "crypto/mono/rads.svg"
+    },
+    {
+      "symbol": "RAP",
+      "name": "Rapture",
+      "color": "#000000",
+      "colorSvg": "crypto/color/rap.svg",
+      "monoSvg": "crypto/mono/rap.svg"
+    },
+    {
+      "symbol": "RAY",
+      "name": "Raydium",
+      "color": "#6c45dc",
+      "colorSvg": "crypto/color/ray.svg",
+      "monoSvg": "crypto/mono/ray.svg"
+    },
+    {
+      "symbol": "RCN",
+      "name": "Rcoin",
+      "color": "#3555f9",
+      "colorSvg": "crypto/color/rcn.svg",
+      "monoSvg": "crypto/mono/rcn.svg"
+    },
+    {
+      "symbol": "RDD",
+      "name": "Reddcoin",
+      "color": "#e30613",
+      "colorSvg": "crypto/color/rdd.svg",
+      "monoSvg": "crypto/mono/rdd.svg"
+    },
+    {
+      "symbol": "RDN",
+      "name": "Raiden Network Token",
+      "color": "#2a2a2a",
+      "colorSvg": "crypto/color/rdn.svg",
+      "monoSvg": "crypto/mono/rdn.svg"
+    },
+    {
+      "symbol": "REN",
+      "name": "Ren",
+      "color": "#080817",
+      "colorSvg": "crypto/color/ren.svg",
+      "monoSvg": "crypto/mono/ren.svg"
+    },
+    {
+      "symbol": "REP",
+      "name": "Augur",
+      "color": "#602a52",
+      "colorSvg": "crypto/color/rep.svg",
+      "monoSvg": "crypto/mono/rep.svg"
+    },
+    {
+      "symbol": "REPV2",
+      "name": "Augur",
+      "color": "#0e0e21",
+      "colorSvg": "crypto/color/repv2.svg",
+      "monoSvg": "crypto/mono/repv2.svg"
+    },
+    {
+      "symbol": "REQ",
+      "name": "Request",
+      "color": "#00e6a0",
+      "colorSvg": "crypto/color/req.svg",
+      "monoSvg": "crypto/mono/req.svg"
+    },
+    {
+      "symbol": "RHOC",
+      "name": "RChain",
+      "color": "#cc1e46",
+      "colorSvg": "crypto/color/rhoc.svg",
+      "monoSvg": "crypto/mono/rhoc.svg"
+    },
+    {
+      "symbol": "RIC",
+      "name": "Riecoin",
+      "color": "#60e4dd",
+      "colorSvg": "crypto/color/ric.svg",
+      "monoSvg": "crypto/mono/ric.svg"
+    },
+    {
+      "symbol": "RISE",
+      "name": "Rise",
+      "color": "#f49352",
+      "colorSvg": "crypto/color/rise.svg",
+      "monoSvg": "crypto/mono/rise.svg"
+    },
+    {
+      "symbol": "RLC",
+      "name": "iExec RLC",
+      "color": "#ffd800",
+      "colorSvg": "crypto/color/rlc.svg",
+      "monoSvg": "crypto/mono/rlc.svg"
+    },
+    {
+      "symbol": "RPX",
+      "name": "RPX",
+      "color": "#8d181b",
+      "colorSvg": "crypto/color/rpx.svg",
+      "monoSvg": "crypto/mono/rpx.svg"
+    },
+    {
+      "symbol": "RUB",
+      "name": "RUB",
+      "color": "#64d1ff",
+      "colorSvg": "crypto/color/rub.svg",
+      "monoSvg": "crypto/mono/rub.svg"
+    },
+    {
+      "symbol": "RVN",
+      "name": "Ravencoin",
+      "color": "#384182",
+      "colorSvg": "crypto/color/rvn.svg",
+      "monoSvg": "crypto/mono/rvn.svg"
+    },
+    {
+      "symbol": "RYO",
+      "name": "Ryo Currency",
+      "color": "#3d58b0",
+      "colorSvg": "crypto/color/ryo.svg",
+      "monoSvg": "crypto/mono/ryo.svg"
+    },
+    {
+      "symbol": "SAFE",
+      "name": "Safe",
+      "color": "#00688c",
+      "colorSvg": "crypto/color/safe.svg",
+      "monoSvg": "crypto/mono/safe.svg"
+    },
+    {
+      "symbol": "SAFEMOON",
+      "name": "SafeMoon",
+      "color": "#00a79d",
+      "colorSvg": "crypto/color/safemoon.svg",
+      "monoSvg": "crypto/mono/safemoon.svg"
+    },
+    {
+      "symbol": "SAI",
+      "name": "Single Collateral DAI",
+      "color": "#b68900",
+      "colorSvg": "crypto/color/sai.svg",
+      "monoSvg": "crypto/mono/sai.svg"
+    },
+    {
+      "symbol": "SALT",
+      "name": "SALT",
+      "color": "#1beef4",
+      "colorSvg": "crypto/color/salt.svg",
+      "monoSvg": "crypto/mono/salt.svg"
+    },
+    {
+      "symbol": "SAN",
+      "name": "Santiment Network Token",
+      "color": "#2b77b3",
+      "colorSvg": "crypto/color/san.svg",
+      "monoSvg": "crypto/mono/san.svg"
+    },
+    {
+      "symbol": "SAND",
+      "name": "The Sandbox",
+      "color": "#04adef",
+      "colorSvg": "crypto/color/sand.svg",
+      "monoSvg": "crypto/mono/sand.svg"
+    },
+    {
+      "symbol": "SBD",
+      "name": "Steem Dollars",
+      "color": "#4ba2f2",
+      "colorSvg": "crypto/color/sbd.svg",
+      "monoSvg": "crypto/mono/sbd.svg"
+    },
+    {
+      "symbol": "SBERBANK",
+      "name": "SBERBANK",
+      "color": "#48b254",
+      "colorSvg": "crypto/color/sberbank.svg",
+      "monoSvg": "crypto/mono/sberbank.svg"
+    },
+    {
+      "symbol": "SC",
+      "name": "Siacoin",
+      "color": "#20ee82",
+      "colorSvg": "crypto/color/sc.svg",
+      "monoSvg": "crypto/mono/sc.svg"
+    },
+    {
+      "symbol": "SER",
+      "name": "Serum",
+      "color": "#6dc6c1",
+      "colorSvg": "crypto/color/ser.svg",
+      "monoSvg": "crypto/mono/ser.svg"
+    },
+    {
+      "symbol": "SHIFT",
+      "name": "Shift",
+      "color": "#964b9c",
+      "colorSvg": "crypto/color/shift.svg",
+      "monoSvg": "crypto/mono/shift.svg"
+    },
+    {
+      "symbol": "SIB",
+      "name": "SIBCoin",
+      "color": "#057bc1",
+      "colorSvg": "crypto/color/sib.svg",
+      "monoSvg": "crypto/mono/sib.svg"
+    },
+    {
+      "symbol": "SIN",
+      "name": "SINOVATE",
+      "color": "#f5342e",
+      "colorSvg": "crypto/color/sin.svg",
+      "monoSvg": "crypto/mono/sin.svg"
+    },
+    {
+      "symbol": "SKL",
+      "name": "SKALE Network",
+      "color": "#000000",
+      "colorSvg": "crypto/color/skl.svg",
+      "monoSvg": "crypto/mono/skl.svg"
+    },
+    {
+      "symbol": "SKY",
+      "name": "Skycoin",
+      "color": "#0072ff",
+      "colorSvg": "crypto/color/sky.svg",
+      "monoSvg": "crypto/mono/sky.svg"
+    },
+    {
+      "symbol": "SLR",
+      "name": "Solarcoin",
+      "color": "#fda616",
+      "colorSvg": "crypto/color/slr.svg",
+      "monoSvg": "crypto/mono/slr.svg"
+    },
+    {
+      "symbol": "SLS",
+      "name": "SaluS",
+      "color": "#8e9495",
+      "colorSvg": "crypto/color/sls.svg",
+      "monoSvg": "crypto/mono/sls.svg"
+    },
+    {
+      "symbol": "SMART",
+      "name": "SmartCash",
+      "color": "#fec60d",
+      "colorSvg": "crypto/color/smart.svg",
+      "monoSvg": "crypto/mono/smart.svg"
+    },
+    {
+      "symbol": "SMART",
+      "name": "SmartCash",
+      "color": "#fec60d",
+      "colorSvg": "crypto/color/smart.svg",
+      "monoSvg": "crypto/mono/smart.svg"
+    },
+    {
+      "symbol": "SNGLS",
+      "name": "SingularDTV",
+      "color": "#b30d23",
+      "colorSvg": "crypto/color/sngls.svg",
+      "monoSvg": "crypto/mono/sngls.svg"
+    },
+    {
+      "symbol": "SNM",
+      "name": "SONM",
+      "color": "#0b1c26",
+      "colorSvg": "crypto/color/snm.svg",
+      "monoSvg": "crypto/mono/snm.svg"
+    },
+    {
+      "symbol": "SNT",
+      "name": "Status",
+      "color": "#5b6dee",
+      "colorSvg": "crypto/color/snt.svg",
+      "monoSvg": "crypto/mono/snt.svg"
+    },
+    {
+      "symbol": "SNX",
+      "name": "Synthetix",
+      "color": "#5fcdf9",
+      "colorSvg": "crypto/color/snx.svg",
+      "monoSvg": "crypto/mono/snx.svg"
+    },
+    {
+      "symbol": "SOC",
+      "name": "All Sports",
+      "color": "#199248",
+      "colorSvg": "crypto/color/soc.svg",
+      "monoSvg": "crypto/mono/soc.svg"
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "color": "#66f9a1",
+      "colorSvg": "crypto/color/sol.svg",
+      "monoSvg": "crypto/mono/sol.svg"
+    },
+    {
+      "symbol": "SPACEHBIT",
+      "name": "HashBit Blockchain",
+      "color": "#0971fe",
+      "colorSvg": "crypto/color/spacehbit.svg",
+      "monoSvg": "crypto/mono/spacehbit.svg"
+    },
+    {
+      "symbol": "SPANK",
+      "name": "SpankChain",
+      "color": "#ff3b81",
+      "colorSvg": "crypto/color/spank.svg",
+      "monoSvg": "crypto/mono/spank.svg"
+    },
+    {
+      "symbol": "SPHTX",
+      "name": "SophiaTX",
+      "color": "#00b098",
+      "colorSvg": "crypto/color/sphtx.svg",
+      "monoSvg": "crypto/mono/sphtx.svg"
+    },
+    {
+      "symbol": "SRN",
+      "name": "Sirin Labs Token",
+      "color": "#1c1c1c",
+      "colorSvg": "crypto/color/srn.svg",
+      "monoSvg": "crypto/mono/srn.svg"
+    },
+    {
+      "symbol": "STAK",
+      "name": "STRAKS",
+      "color": "#f2941b",
+      "colorSvg": "crypto/color/stak.svg",
+      "monoSvg": "crypto/mono/stak.svg"
+    },
+    {
+      "symbol": "START",
+      "name": "Startcoin",
+      "color": "#01aef0",
+      "colorSvg": "crypto/color/start.svg",
+      "monoSvg": "crypto/mono/start.svg"
+    },
+    {
+      "symbol": "STEEM",
+      "name": "Steem",
+      "color": "#4ba2f2",
+      "colorSvg": "crypto/color/steem.svg",
+      "monoSvg": "crypto/mono/steem.svg"
+    },
+    {
+      "symbol": "STORJ",
+      "name": "Storj",
+      "color": "#2683ff",
+      "colorSvg": "crypto/color/storj.svg",
+      "monoSvg": "crypto/mono/storj.svg"
+    },
+    {
+      "symbol": "STORM",
+      "name": "Storm",
+      "color": "#080d98",
+      "colorSvg": "crypto/color/storm.svg",
+      "monoSvg": "crypto/mono/storm.svg"
+    },
+    {
+      "symbol": "STOX",
+      "name": "Stox",
+      "color": "#7324f0",
+      "colorSvg": "crypto/color/stox.svg",
+      "monoSvg": "crypto/mono/stox.svg"
+    },
+    {
+      "symbol": "STQ",
+      "name": "Storiqa",
+      "color": "#2dc4e7",
+      "colorSvg": "crypto/color/stq.svg",
+      "monoSvg": "crypto/mono/stq.svg"
+    },
+    {
+      "symbol": "STRAT",
+      "name": "Stratis",
+      "color": "#1387c9",
+      "colorSvg": "crypto/color/strat.svg",
+      "monoSvg": "crypto/mono/strat.svg"
+    },
+    {
+      "symbol": "STX",
+      "name": "Stacks",
+      "color": "#5546ff",
+      "colorSvg": "crypto/color/stx.svg",
+      "monoSvg": "crypto/mono/stx.svg"
+    },
+    {
+      "symbol": "SUB",
+      "name": "Substratum",
+      "color": "#e53431",
+      "colorSvg": "crypto/color/sub.svg",
+      "monoSvg": "crypto/mono/sub.svg"
+    },
+    {
+      "symbol": "SUMO",
+      "name": "Sumokoin",
+      "color": "#2d9cdb",
+      "colorSvg": "crypto/color/sumo.svg",
+      "monoSvg": "crypto/mono/sumo.svg"
+    },
+    {
+      "symbol": "SUSHI",
+      "name": "SushiSwap",
+      "color": "#d65892",
+      "colorSvg": "crypto/color/sushi.svg",
+      "monoSvg": "crypto/mono/sushi.svg"
+    },
+    {
+      "symbol": "SYS",
+      "name": "Syscoin",
+      "color": "#0082c6",
+      "colorSvg": "crypto/color/sys.svg",
+      "monoSvg": "crypto/mono/sys.svg"
+    },
+    {
+      "symbol": "TAAS",
+      "name": "TaaS",
+      "color": "#002342",
+      "colorSvg": "crypto/color/taas.svg",
+      "monoSvg": "crypto/mono/taas.svg"
+    },
+    {
+      "symbol": "TAU",
+      "name": "Lamden",
+      "color": "#7b346e",
+      "colorSvg": "crypto/color/tau.svg",
+      "monoSvg": "crypto/mono/tau.svg"
+    },
+    {
+      "symbol": "TBX",
+      "name": "Tokenbox",
+      "color": "#5244d4",
+      "colorSvg": "crypto/color/tbx.svg",
+      "monoSvg": "crypto/mono/tbx.svg"
+    },
+    {
+      "symbol": "TEL",
+      "name": "Telcoin",
+      "color": "#14c8ff",
+      "colorSvg": "crypto/color/tel.svg",
+      "monoSvg": "crypto/mono/tel.svg"
+    },
+    {
+      "symbol": "TEN",
+      "name": "Tokenomy",
+      "color": "#0899cd",
+      "colorSvg": "crypto/color/ten.svg",
+      "monoSvg": "crypto/mono/ten.svg"
+    },
+    {
+      "symbol": "TERN",
+      "name": "Ternio",
+      "color": "#f4c257",
+      "colorSvg": "crypto/color/tern.svg",
+      "monoSvg": "crypto/mono/tern.svg"
+    },
+    {
+      "symbol": "TGCH",
+      "name": "TrueGalaxyCash",
+      "color": "#434247",
+      "colorSvg": "crypto/color/tgch.svg",
+      "monoSvg": "crypto/mono/tgch.svg"
+    },
+    {
+      "symbol": "THETA",
+      "name": "Theta Network",
+      "color": "#2ab8e6",
+      "colorSvg": "crypto/color/theta.svg",
+      "monoSvg": "crypto/mono/theta.svg"
+    },
+    {
+      "symbol": "TIX",
+      "name": "Blocktix",
+      "color": "#ef494d",
+      "colorSvg": "crypto/color/tix.svg",
+      "monoSvg": "crypto/mono/tix.svg"
+    },
+    {
+      "symbol": "TKN",
+      "name": "TokenCard",
+      "color": "#24dd7b",
+      "colorSvg": "crypto/color/tkn.svg",
+      "monoSvg": "crypto/mono/tkn.svg"
+    },
+    {
+      "symbol": "TKS",
+      "name": "Tokes Platform",
+      "color": "#895af8",
+      "colorSvg": "crypto/color/tks.svg",
+      "monoSvg": "crypto/mono/tks.svg"
+    },
+    {
+      "symbol": "TNB",
+      "name": "Time New Bank",
+      "color": "#ffc04e",
+      "colorSvg": "crypto/color/tnb.svg",
+      "monoSvg": "crypto/mono/tnb.svg"
+    },
+    {
+      "symbol": "TNC",
+      "name": "Trinity Network Credit",
+      "color": "#ff439b",
+      "colorSvg": "crypto/color/tnc.svg",
+      "monoSvg": "crypto/mono/tnc.svg"
+    },
+    {
+      "symbol": "TNT",
+      "name": "Tierion",
+      "color": "#ff4081",
+      "colorSvg": "crypto/color/tnt.svg",
+      "monoSvg": "crypto/mono/tnt.svg"
+    },
+    {
+      "symbol": "TOMO",
+      "name": "TomoChain",
+      "color": "#1a1f36",
+      "colorSvg": "crypto/color/tomo.svg",
+      "monoSvg": "crypto/mono/tomo.svg"
+    },
+    {
+      "symbol": "TPAY",
+      "name": "TokenPay",
+      "color": "#3058a6",
+      "colorSvg": "crypto/color/tpay.svg",
+      "monoSvg": "crypto/mono/tpay.svg"
+    },
+    {
+      "symbol": "TRIG",
+      "name": "Triggers",
+      "color": "#30c0f2",
+      "colorSvg": "crypto/color/trig.svg",
+      "monoSvg": "crypto/mono/trig.svg"
+    },
+    {
+      "symbol": "TRTL",
+      "name": "TurtleCoin",
+      "color": "#00843d",
+      "colorSvg": "crypto/color/trtl.svg",
+      "monoSvg": "crypto/mono/trtl.svg"
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "color": "#ef0027",
+      "colorSvg": "crypto/color/trx.svg",
+      "monoSvg": "crypto/mono/trx.svg"
+    },
+    {
+      "symbol": "TUSD",
+      "name": "TrueUSD",
+      "color": "#2b2e7f",
+      "colorSvg": "crypto/color/tusd.svg",
+      "monoSvg": "crypto/mono/tusd.svg"
+    },
+    {
+      "symbol": "TZC",
+      "name": "TrezarCoin",
+      "color": "#374851",
+      "colorSvg": "crypto/color/tzc.svg",
+      "monoSvg": "crypto/mono/tzc.svg"
+    },
+    {
+      "symbol": "UBQ",
+      "name": "Ubiq",
+      "color": "#00ea90",
+      "colorSvg": "crypto/color/ubq.svg",
+      "monoSvg": "crypto/mono/ubq.svg"
+    },
+    {
+      "symbol": "UMA",
+      "name": "UMA",
+      "color": "#ff4a4a",
+      "colorSvg": "crypto/color/uma.svg",
+      "monoSvg": "crypto/mono/uma.svg"
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "color": "#ff007a",
+      "colorSvg": "crypto/color/uni.svg",
+      "monoSvg": "crypto/mono/uni.svg"
+    },
+    {
+      "symbol": "UNITY",
+      "name": "SuperNET",
+      "color": "#f58634",
+      "colorSvg": "crypto/color/unity.svg",
+      "monoSvg": "crypto/mono/unity.svg"
+    },
+    {
+      "symbol": "USD",
+      "name": "USD",
+      "color": "#6cde07",
+      "colorSvg": "crypto/color/usd.svg",
+      "monoSvg": "crypto/mono/usd.svg"
+    },
+    {
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "color": "#3e73c4",
+      "colorSvg": "crypto/color/usdc.svg",
+      "monoSvg": "crypto/mono/usdc.svg"
+    },
+    {
+      "symbol": "USDT",
+      "name": "Tether",
+      "color": "#26a17b",
+      "colorSvg": "crypto/color/usdt.svg",
+      "monoSvg": "crypto/mono/usdt.svg"
+    },
+    {
+      "symbol": "UTK",
+      "name": "UTRUST",
+      "color": "#30367a",
+      "colorSvg": "crypto/color/utk.svg",
+      "monoSvg": "crypto/mono/utk.svg"
+    },
+    {
+      "symbol": "VERI",
+      "name": "Veritaseum",
+      "color": "#ff9933",
+      "colorSvg": "crypto/color/veri.svg",
+      "monoSvg": "crypto/mono/veri.svg"
+    },
+    {
+      "symbol": "VET",
+      "name": "VeChain",
+      "color": "#15bdff",
+      "colorSvg": "crypto/color/vet.svg",
+      "monoSvg": "crypto/mono/vet.svg"
+    },
+    {
+      "symbol": "VIA",
+      "name": "Viacoin",
+      "color": "#565656",
+      "colorSvg": "crypto/color/via.svg",
+      "monoSvg": "crypto/mono/via.svg"
+    },
+    {
+      "symbol": "VIB",
+      "name": "Viberate",
+      "color": "#ff1f43",
+      "colorSvg": "crypto/color/vib.svg",
+      "monoSvg": "crypto/mono/vib.svg"
+    },
+    {
+      "symbol": "VIBE",
+      "name": "VIBE",
+      "color": "#338be5",
+      "colorSvg": "crypto/color/vibe.svg",
+      "monoSvg": "crypto/mono/vibe.svg"
+    },
+    {
+      "symbol": "VIVO",
+      "name": "VIVO",
+      "color": "#408af1",
+      "colorSvg": "crypto/color/vivo.svg",
+      "monoSvg": "crypto/mono/vivo.svg"
+    },
+    {
+      "symbol": "VRC",
+      "name": "VeriCoin",
+      "color": "#418bca",
+      "colorSvg": "crypto/color/vrc.svg",
+      "monoSvg": "crypto/mono/vrc.svg"
+    },
+    {
+      "symbol": "VRSC",
+      "name": "VerusCoin",
+      "color": "#3165d4",
+      "colorSvg": "crypto/color/vrsc.svg",
+      "monoSvg": "crypto/mono/vrsc.svg"
+    },
+    {
+      "symbol": "VRSC",
+      "name": "VerusCoin",
+      "color": "#3165d4",
+      "colorSvg": "crypto/color/vrsc.svg",
+      "monoSvg": "crypto/mono/vrsc.svg"
+    },
+    {
+      "symbol": "VTC",
+      "name": "Vertcoin",
+      "color": "#048657",
+      "colorSvg": "crypto/color/vtc.svg",
+      "monoSvg": "crypto/mono/vtc.svg"
+    },
+    {
+      "symbol": "VTHO",
+      "name": "VeThor Token",
+      "color": "#2a5284",
+      "colorSvg": "crypto/color/vtho.svg",
+      "monoSvg": "crypto/mono/vtho.svg"
+    },
+    {
+      "symbol": "WABI",
+      "name": "Tael",
+      "color": "#399b32",
+      "colorSvg": "crypto/color/wabi.svg",
+      "monoSvg": "crypto/mono/wabi.svg"
+    },
+    {
+      "symbol": "WAN",
+      "name": "Wanchain",
+      "color": "#136aad",
+      "colorSvg": "crypto/color/wan.svg",
+      "monoSvg": "crypto/mono/wan.svg"
+    },
+    {
+      "symbol": "WAVES",
+      "name": "Waves",
+      "color": "#0155ff",
+      "colorSvg": "crypto/color/waves.svg",
+      "monoSvg": "crypto/mono/waves.svg"
+    },
+    {
+      "symbol": "WAX",
+      "name": "WAX",
+      "color": "#f89022",
+      "colorSvg": "crypto/color/wax.svg",
+      "monoSvg": "crypto/mono/wax.svg"
+    },
+    {
+      "symbol": "WBTC",
+      "name": "Wrapped Bitcoin",
+      "color": "#201a2d",
+      "colorSvg": "crypto/color/wbtc.svg",
+      "monoSvg": "crypto/mono/wbtc.svg"
+    },
+    {
+      "symbol": "WGR",
+      "name": "Wagerr",
+      "color": "#b80000",
+      "colorSvg": "crypto/color/wgr.svg",
+      "monoSvg": "crypto/mono/wgr.svg"
+    },
+    {
+      "symbol": "WICC",
+      "name": "WaykiChain",
+      "color": "#5783cb",
+      "colorSvg": "crypto/color/wicc.svg",
+      "monoSvg": "crypto/mono/wicc.svg"
+    },
+    {
+      "symbol": "WINGS",
+      "name": "Wings",
+      "color": "#0dc9f7",
+      "colorSvg": "crypto/color/wings.svg",
+      "monoSvg": "crypto/mono/wings.svg"
+    },
+    {
+      "symbol": "WPR",
+      "name": "WePower",
+      "color": "#ffe600",
+      "colorSvg": "crypto/color/wpr.svg",
+      "monoSvg": "crypto/mono/wpr.svg"
+    },
+    {
+      "symbol": "WTC",
+      "name": "Waltonchain",
+      "color": "#8200ff",
+      "colorSvg": "crypto/color/wtc.svg",
+      "monoSvg": "crypto/mono/wtc.svg"
+    },
+    {
+      "symbol": "X",
+      "name": "GLX Equity Token",
+      "color": "#3b5998",
+      "colorSvg": "crypto/color/x.svg",
+      "monoSvg": "crypto/mono/x.svg"
+    },
+    {
+      "symbol": "XAS",
+      "name": "Asch",
+      "color": "#faa00d",
+      "colorSvg": "crypto/color/xas.svg",
+      "monoSvg": "crypto/mono/xas.svg"
+    },
+    {
+      "symbol": "XBC",
+      "name": "Bitcoin Plus",
+      "color": "#f7931a",
+      "colorSvg": "crypto/color/xbc.svg",
+      "monoSvg": "crypto/mono/xbc.svg"
+    },
+    {
+      "symbol": "XBP",
+      "name": "BlitzPredict",
+      "color": "#21af67",
+      "colorSvg": "crypto/color/xbp.svg",
+      "monoSvg": "crypto/mono/xbp.svg"
+    },
+    {
+      "symbol": "XBY",
+      "name": "XtraBYtes",
+      "color": "#56f4f1",
+      "colorSvg": "crypto/color/xby.svg",
+      "monoSvg": "crypto/mono/xby.svg"
+    },
+    {
+      "symbol": "XCP",
+      "name": "Counterparty",
+      "color": "#ed1650",
+      "colorSvg": "crypto/color/xcp.svg",
+      "monoSvg": "crypto/mono/xcp.svg"
+    },
+    {
+      "symbol": "XDN",
+      "name": "DigitalNote",
+      "color": "#4f7aa2",
+      "colorSvg": "crypto/color/xdn.svg",
+      "monoSvg": "crypto/mono/xdn.svg"
+    },
+    {
+      "symbol": "XEM",
+      "name": "NEM",
+      "color": "#67b2e8",
+      "colorSvg": "crypto/color/xem.svg",
+      "monoSvg": "crypto/mono/xem.svg"
+    },
+    {
+      "symbol": "XIN",
+      "name": "Infinity Economics",
+      "color": "#1eb5fa",
+      "colorSvg": "crypto/color/xin.svg",
+      "monoSvg": "crypto/mono/xin.svg"
+    },
+    {
+      "symbol": "XLM",
+      "name": "Stellar",
+      "color": "#000000",
+      "colorSvg": "crypto/color/xlm.svg",
+      "monoSvg": "crypto/mono/xlm.svg"
+    },
+    {
+      "symbol": "XMCC",
+      "name": "Monoeci",
+      "color": "#dd0632",
+      "colorSvg": "crypto/color/xmcc.svg",
+      "monoSvg": "crypto/mono/xmcc.svg"
+    },
+    {
+      "symbol": "XMG",
+      "name": "Magi",
+      "color": "#004a80",
+      "colorSvg": "crypto/color/xmg.svg",
+      "monoSvg": "crypto/mono/xmg.svg"
+    },
+    {
+      "symbol": "XMO",
+      "name": "Monero Original",
+      "color": "#ff6600",
+      "colorSvg": "crypto/color/xmo.svg",
+      "monoSvg": "crypto/mono/xmo.svg"
+    },
+    {
+      "symbol": "XMR",
+      "name": "Monero",
+      "color": "#ff6600",
+      "colorSvg": "crypto/color/xmr.svg",
+      "monoSvg": "crypto/mono/xmr.svg"
+    },
+    {
+      "symbol": "XMY",
+      "name": "Myriad",
+      "color": "#ec1076",
+      "colorSvg": "crypto/color/xmy.svg",
+      "monoSvg": "crypto/mono/xmy.svg"
+    },
+    {
+      "symbol": "XP",
+      "name": "XP",
+      "color": "#008200",
+      "colorSvg": "crypto/color/xp.svg",
+      "monoSvg": "crypto/mono/xp.svg"
+    },
+    {
+      "symbol": "XPA",
+      "name": "XPA",
+      "color": "#4fa784",
+      "colorSvg": "crypto/color/xpa.svg",
+      "monoSvg": "crypto/mono/xpa.svg"
+    },
+    {
+      "symbol": "XPM",
+      "name": "Primecoin",
+      "color": "#ffd81b",
+      "colorSvg": "crypto/color/xpm.svg",
+      "monoSvg": "crypto/mono/xpm.svg"
+    },
+    {
+      "symbol": "XPR",
+      "name": "Proton",
+      "color": "#7543e3",
+      "colorSvg": "crypto/color/xpr.svg",
+      "monoSvg": "crypto/mono/xpr.svg"
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "color": "#23292f",
+      "colorSvg": "crypto/color/xrp.svg",
+      "monoSvg": "crypto/mono/xrp.svg"
+    },
+    {
+      "symbol": "XSG",
+      "name": "SnowGem",
+      "color": "#d21e2b",
+      "colorSvg": "crypto/color/xsg.svg",
+      "monoSvg": "crypto/mono/xsg.svg"
+    },
+    {
+      "symbol": "XTZ",
+      "name": "Tezos",
+      "color": "#a6e000",
+      "colorSvg": "crypto/color/xtz.svg",
+      "monoSvg": "crypto/mono/xtz.svg"
+    },
+    {
+      "symbol": "XUC",
+      "name": "Exchange Union",
+      "color": "#25aae3",
+      "colorSvg": "crypto/color/xuc.svg",
+      "monoSvg": "crypto/mono/xuc.svg"
+    },
+    {
+      "symbol": "XVC",
+      "name": "Vcash",
+      "color": "#b50126",
+      "colorSvg": "crypto/color/xvc.svg",
+      "monoSvg": "crypto/mono/xvc.svg"
+    },
+    {
+      "symbol": "XVG",
+      "name": "Verge",
+      "color": "#00cbff",
+      "colorSvg": "crypto/color/xvg.svg",
+      "monoSvg": "crypto/mono/xvg.svg"
+    },
+    {
+      "symbol": "XZC",
+      "name": "Zcoin",
+      "color": "#23b852",
+      "colorSvg": "crypto/color/xzc.svg",
+      "monoSvg": "crypto/mono/xzc.svg"
+    },
+    {
+      "symbol": "YFI",
+      "name": "yearn.finance",
+      "color": "#006ae3",
+      "colorSvg": "crypto/color/yfi.svg",
+      "monoSvg": "crypto/mono/yfi.svg"
+    },
+    {
+      "symbol": "YOYOW",
+      "name": "YOYOW",
+      "color": "#21a5de",
+      "colorSvg": "crypto/color/yoyow.svg",
+      "monoSvg": "crypto/mono/yoyow.svg"
+    },
+    {
+      "symbol": "ZCL",
+      "name": "Zclassic",
+      "color": "#c87035",
+      "colorSvg": "crypto/color/zcl.svg",
+      "monoSvg": "crypto/mono/zcl.svg"
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "color": "#ecb244",
+      "colorSvg": "crypto/color/zec.svg",
+      "monoSvg": "crypto/mono/zec.svg"
+    },
+    {
+      "symbol": "ZEL",
+      "name": "ZelCash",
+      "color": "#183c87",
+      "colorSvg": "crypto/color/zel.svg",
+      "monoSvg": "crypto/mono/zel.svg"
+    },
+    {
+      "symbol": "ZEN",
+      "name": "Horizen",
+      "color": "#00eaab",
+      "colorSvg": "crypto/color/zen.svg",
+      "monoSvg": "crypto/mono/zen.svg"
+    },
+    {
+      "symbol": "ZEST",
+      "name": "Zest",
+      "color": "#07bc9c",
+      "colorSvg": "crypto/color/zest.svg",
+      "monoSvg": "crypto/mono/zest.svg"
+    },
+    {
+      "symbol": "ZEST",
+      "name": "Zest",
+      "color": "#07bc9c",
+      "colorSvg": "crypto/color/zest.svg",
+      "monoSvg": "crypto/mono/zest.svg"
+    },
+    {
+      "symbol": "ZIL",
+      "name": "Zilliqa",
+      "color": "#49c1bf",
+      "colorSvg": "crypto/color/zil.svg",
+      "monoSvg": "crypto/mono/zil.svg"
+    },
+    {
+      "symbol": "ZILLA",
+      "name": "Chainzilla",
+      "color": "#00004d",
+      "colorSvg": "crypto/color/zilla.svg",
+      "monoSvg": "crypto/mono/zilla.svg"
+    },
+    {
+      "symbol": "ZRX",
+      "name": "0x",
+      "color": "#302c2c",
+      "colorSvg": "crypto/color/zrx.svg",
+      "monoSvg": "crypto/mono/zrx.svg"
+    },
+    {
+      "symbol": "APEX",
+      "name": "",
+      "color": "",
+      "colorSvg": "crypto/color/apex.svg",
+      "monoSvg": "crypto/mono/apex.svg"
+    },
+    {
+      "symbol": "CENZ",
+      "name": "",
+      "color": "",
+      "colorSvg": "crypto/color/cenz.svg",
+      "monoSvg": "crypto/mono/cenz.svg"
+    }
+  ],
+  "fiat": [
+    {
+      "code": "USD",
+      "name": "US Dollar",
+      "symbol": "$",
+      "color": "#2E7D5B",
+      "colorSvg": "fiat/color/usd.svg"
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "color": "#2E5B8F",
+      "colorSvg": "fiat/color/eur.svg"
+    },
+    {
+      "code": "GBP",
+      "name": "Pound Sterling",
+      "symbol": "£",
+      "color": "#6A3FA0",
+      "colorSvg": "fiat/color/gbp.svg"
+    },
+    {
+      "code": "RUB",
+      "name": "Russian Ruble",
+      "symbol": "₽",
+      "color": "#9A4A2F",
+      "colorSvg": "fiat/color/rub.svg"
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "symbol": "¥",
+      "color": "#B23B3B",
+      "colorSvg": "fiat/color/jpy.svg"
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "symbol": "¥",
+      "color": "#C0392B",
+      "colorSvg": "fiat/color/cny.svg"
+    },
+    {
+      "code": "INR",
+      "name": "Indian Rupee",
+      "symbol": "₹",
+      "color": "#C77B30",
+      "colorSvg": "fiat/color/inr.svg"
+    },
+    {
+      "code": "KRW",
+      "name": "South Korean Won",
+      "symbol": "₩",
+      "color": "#2B6CB0",
+      "colorSvg": "fiat/color/krw.svg"
+    },
+    {
+      "code": "BRL",
+      "name": "Brazilian Real",
+      "symbol": "R$",
+      "color": "#2F855A",
+      "colorSvg": "fiat/color/brl.svg"
+    },
+    {
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "symbol": "Fr",
+      "color": "#C0392B",
+      "colorSvg": "fiat/color/chf.svg"
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "symbol": "$",
+      "color": "#B23B3B",
+      "colorSvg": "fiat/color/cad.svg"
+    },
+    {
+      "code": "AUD",
+      "name": "Australian Dollar",
+      "symbol": "$",
+      "color": "#2C5282",
+      "colorSvg": "fiat/color/aud.svg"
+    },
+    {
+      "code": "TRY",
+      "name": "Turkish Lira",
+      "symbol": "₺",
+      "color": "#C0392B",
+      "colorSvg": "fiat/color/try.svg"
+    },
+    {
+      "code": "AED",
+      "name": "UAE Dirham",
+      "symbol": "د.إ",
+      "color": "#2F855A",
+      "colorSvg": "fiat/color/aed.svg"
+    },
+    {
+      "code": "SGD",
+      "name": "Singapore Dollar",
+      "symbol": "$",
+      "color": "#B23B3B",
+      "colorSvg": "fiat/color/sgd.svg"
+    },
+    {
+      "code": "HKD",
+      "name": "Hong Kong Dollar",
+      "symbol": "$",
+      "color": "#C0392B",
+      "colorSvg": "fiat/color/hkd.svg"
+    },
+    {
+      "code": "NGN",
+      "name": "Nigerian Naira",
+      "symbol": "₦",
+      "color": "#2F855A",
+      "colorSvg": "fiat/color/ngn.svg"
+    },
+    {
+      "code": "UAH",
+      "name": "Ukrainian Hryvnia",
+      "symbol": "₴",
+      "color": "#2B6CB0",
+      "colorSvg": "fiat/color/uah.svg"
+    },
+    {
+      "code": "KZT",
+      "name": "Kazakhstani Tenge",
+      "symbol": "₸",
+      "color": "#2C7BB6",
+      "colorSvg": "fiat/color/kzt.svg"
+    },
+    {
+      "code": "PLN",
+      "name": "Polish Zloty",
+      "symbol": "zł",
+      "color": "#B23B3B",
+      "colorSvg": "fiat/color/pln.svg"
+    }
+  ],
+  "fiatCount": 20
+}
