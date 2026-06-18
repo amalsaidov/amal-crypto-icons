@@ -79,7 +79,7 @@ function render(){
   countEl.textContent = list.length + ' icons';
   grid.innerHTML = list.map(e=>{
     const sym = fiat ? e.code : e.symbol;
-    const path = fiat ? e.colorSvg : (kind==='mono' ? e.monoSvg : e.colorSvg);
+    const path = fiat ? e.flagSvg : (kind==='mono' ? e.monoSvg : e.colorSvg);
     return `<div class="cell" data-url="${CDN}${path}">
       <img loading="lazy" src="${path}" alt="${sym}">
       <div class="sym">${sym}</div><div class="nm">${e.name||''}</div></div>`;
