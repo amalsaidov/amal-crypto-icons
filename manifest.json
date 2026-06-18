@@ -1,6 +1,6 @@
 {
   "name": "amal-crypto-icons",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "High-quality vector (SVG) crypto + fiat icons. Sharp at any size. CC0.",
   "cdn": "https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/",
   "raw": "https://raw.githubusercontent.com/amalsaidov/amal-crypto-icons/main/",
@@ -16478,5 +16478,457 @@
       "monoSvg": "networks/mono/zyx.svg"
     }
   ],
-  "networkCount": 207
+  "networkCount": 207,
+  "wallets": [
+    {
+      "id": "alfa1",
+      "name": "Alfa1",
+      "colorSvg": "wallets/color/alfa1.svg",
+      "monoSvg": "wallets/mono/alfa1.svg"
+    },
+    {
+      "id": "alpha-wallet",
+      "name": "Alpha Wallet",
+      "colorSvg": "wallets/color/alpha-wallet.svg",
+      "monoSvg": "wallets/mono/alpha-wallet.svg"
+    },
+    {
+      "id": "argent",
+      "name": "Argent",
+      "colorSvg": "wallets/color/argent.svg",
+      "monoSvg": "wallets/mono/argent.svg"
+    },
+    {
+      "id": "atomic",
+      "name": "Atomic",
+      "colorSvg": "wallets/color/atomic.svg",
+      "monoSvg": "wallets/mono/atomic.svg"
+    },
+    {
+      "id": "backpack",
+      "name": "Backpack",
+      "colorSvg": "wallets/color/backpack.svg",
+      "monoSvg": "wallets/mono/backpack.svg"
+    },
+    {
+      "id": "bitbox",
+      "name": "Bitbox",
+      "colorSvg": "wallets/color/bitbox.svg",
+      "monoSvg": "wallets/mono/bitbox.svg"
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "colorSvg": "wallets/color/blue.svg"
+    },
+    {
+      "id": "clave",
+      "name": "Clave",
+      "colorSvg": "wallets/color/clave.svg",
+      "monoSvg": "wallets/mono/clave.svg"
+    },
+    {
+      "id": "coin98",
+      "name": "Coin98",
+      "colorSvg": "wallets/color/coin98.svg",
+      "monoSvg": "wallets/mono/coin98.svg"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "colorSvg": "wallets/color/coinbase.svg"
+    },
+    {
+      "id": "cypherock",
+      "name": "Cypherock",
+      "colorSvg": "wallets/color/cypherock.svg",
+      "monoSvg": "wallets/mono/cypherock.svg"
+    },
+    {
+      "id": "daimo",
+      "name": "Daimo",
+      "colorSvg": "wallets/color/daimo.svg",
+      "monoSvg": "wallets/mono/daimo.svg"
+    },
+    {
+      "id": "enkrypt",
+      "name": "Enkrypt",
+      "colorSvg": "wallets/color/enkrypt.svg",
+      "monoSvg": "wallets/mono/enkrypt.svg"
+    },
+    {
+      "id": "exodus",
+      "name": "Exodus",
+      "colorSvg": "wallets/color/exodus.svg",
+      "monoSvg": "wallets/mono/exodus.svg"
+    },
+    {
+      "id": "glow",
+      "name": "Glow",
+      "colorSvg": "wallets/color/glow.svg",
+      "monoSvg": "wallets/mono/glow.svg"
+    },
+    {
+      "id": "imtoken",
+      "name": "Imtoken",
+      "colorSvg": "wallets/color/imtoken.svg",
+      "monoSvg": "wallets/mono/imtoken.svg"
+    },
+    {
+      "id": "keplr",
+      "name": "Keplr",
+      "colorSvg": "wallets/color/keplr.svg",
+      "monoSvg": "wallets/mono/keplr.svg"
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "colorSvg": "wallets/color/kraken.svg",
+      "monoSvg": "wallets/mono/kraken.svg"
+    },
+    {
+      "id": "kukai",
+      "name": "Kukai",
+      "colorSvg": "wallets/color/kukai.svg",
+      "monoSvg": "wallets/mono/kukai.svg"
+    },
+    {
+      "id": "ledger",
+      "name": "Ledger",
+      "colorSvg": "wallets/color/ledger.svg",
+      "monoSvg": "wallets/mono/ledger.svg"
+    },
+    {
+      "id": "lit",
+      "name": "Lit",
+      "colorSvg": "wallets/color/lit.svg",
+      "monoSvg": "wallets/mono/lit.svg"
+    },
+    {
+      "id": "metamask",
+      "name": "Metamask",
+      "colorSvg": "wallets/color/metamask.svg"
+    },
+    {
+      "id": "my-ether-wallet",
+      "name": "My Ether Wallet",
+      "colorSvg": "wallets/color/my-ether-wallet.svg",
+      "monoSvg": "wallets/mono/my-ether-wallet.svg"
+    },
+    {
+      "id": "obvious",
+      "name": "Obvious",
+      "colorSvg": "wallets/color/obvious.svg",
+      "monoSvg": "wallets/mono/obvious.svg"
+    },
+    {
+      "id": "okx",
+      "name": "Okx",
+      "colorSvg": "wallets/color/okx.svg",
+      "monoSvg": "wallets/mono/okx.svg"
+    },
+    {
+      "id": "phantom",
+      "name": "Phantom",
+      "colorSvg": "wallets/color/phantom.svg",
+      "monoSvg": "wallets/mono/phantom.svg"
+    },
+    {
+      "id": "pillar",
+      "name": "Pillar",
+      "colorSvg": "wallets/color/pillar.svg",
+      "monoSvg": "wallets/mono/pillar.svg"
+    },
+    {
+      "id": "portal",
+      "name": "Portal",
+      "colorSvg": "wallets/color/portal.svg",
+      "monoSvg": "wallets/mono/portal.svg"
+    },
+    {
+      "id": "rabby",
+      "name": "Rabby",
+      "colorSvg": "wallets/color/rabby.svg",
+      "monoSvg": "wallets/mono/rabby.svg"
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "colorSvg": "wallets/color/rainbow.svg",
+      "monoSvg": "wallets/mono/rainbow.svg"
+    },
+    {
+      "id": "ronin",
+      "name": "Ronin",
+      "colorSvg": "wallets/color/ronin.svg",
+      "monoSvg": "wallets/mono/ronin.svg"
+    },
+    {
+      "id": "safe",
+      "name": "Safe",
+      "colorSvg": "wallets/color/safe.svg",
+      "monoSvg": "wallets/mono/safe.svg"
+    },
+    {
+      "id": "sender",
+      "name": "Sender",
+      "colorSvg": "wallets/color/sender.svg",
+      "monoSvg": "wallets/mono/sender.svg"
+    },
+    {
+      "id": "sequence",
+      "name": "Sequence",
+      "colorSvg": "wallets/color/sequence.svg",
+      "monoSvg": "wallets/mono/sequence.svg"
+    },
+    {
+      "id": "solflare",
+      "name": "Solflare",
+      "colorSvg": "wallets/color/solflare.svg",
+      "monoSvg": "wallets/mono/solflare.svg"
+    },
+    {
+      "id": "soul",
+      "name": "Soul",
+      "colorSvg": "wallets/color/soul.svg",
+      "monoSvg": "wallets/mono/soul.svg"
+    },
+    {
+      "id": "squads",
+      "name": "Squads",
+      "colorSvg": "wallets/color/squads.svg",
+      "monoSvg": "wallets/mono/squads.svg"
+    },
+    {
+      "id": "temple",
+      "name": "Temple",
+      "colorSvg": "wallets/color/temple.svg"
+    },
+    {
+      "id": "token-pocket",
+      "name": "Token Pocket",
+      "colorSvg": "wallets/color/token-pocket.svg",
+      "monoSvg": "wallets/mono/token-pocket.svg"
+    },
+    {
+      "id": "trezor",
+      "name": "Trezor",
+      "colorSvg": "wallets/color/trezor.svg",
+      "monoSvg": "wallets/mono/trezor.svg"
+    },
+    {
+      "id": "trust",
+      "name": "Trust",
+      "colorSvg": "wallets/color/trust.svg",
+      "monoSvg": "wallets/mono/trust.svg"
+    },
+    {
+      "id": "unipass",
+      "name": "Unipass",
+      "colorSvg": "wallets/color/unipass.svg",
+      "monoSvg": "wallets/mono/unipass.svg"
+    },
+    {
+      "id": "venly",
+      "name": "Venly",
+      "colorSvg": "wallets/color/venly.svg",
+      "monoSvg": "wallets/mono/venly.svg"
+    },
+    {
+      "id": "wallet-3",
+      "name": "Wallet 3",
+      "colorSvg": "wallets/color/wallet-3.svg",
+      "monoSvg": "wallets/mono/wallet-3.svg"
+    },
+    {
+      "id": "wallet-connect",
+      "name": "Wallet Connect",
+      "colorSvg": "wallets/color/wallet-connect.svg",
+      "monoSvg": "wallets/mono/wallet-connect.svg"
+    },
+    {
+      "id": "xdefi",
+      "name": "Xdefi",
+      "colorSvg": "wallets/color/xdefi.svg",
+      "monoSvg": "wallets/mono/xdefi.svg"
+    },
+    {
+      "id": "zengo",
+      "name": "Zengo",
+      "colorSvg": "wallets/color/zengo.svg",
+      "monoSvg": "wallets/mono/zengo.svg"
+    },
+    {
+      "id": "zerion",
+      "name": "Zerion",
+      "colorSvg": "wallets/color/zerion.svg",
+      "monoSvg": "wallets/mono/zerion.svg"
+    }
+  ],
+  "walletCount": 48,
+  "exchanges": [
+    {
+      "id": "1inch",
+      "name": "1Inch",
+      "colorSvg": "exchanges/color/1inch.svg",
+      "monoSvg": "exchanges/mono/1inch.svg"
+    },
+    {
+      "id": "aevo",
+      "name": "Aevo",
+      "colorSvg": "exchanges/color/aevo.svg",
+      "monoSvg": "exchanges/mono/aevo.svg"
+    },
+    {
+      "id": "balancer",
+      "name": "Balancer",
+      "colorSvg": "exchanges/color/balancer.svg",
+      "monoSvg": "exchanges/mono/balancer.svg"
+    },
+    {
+      "id": "bancor",
+      "name": "Bancor",
+      "colorSvg": "exchanges/color/bancor.svg",
+      "monoSvg": "exchanges/mono/bancor.svg"
+    },
+    {
+      "id": "binance",
+      "name": "Binance",
+      "colorSvg": "exchanges/color/binance.svg",
+      "monoSvg": "exchanges/mono/binance.svg"
+    },
+    {
+      "id": "bitget",
+      "name": "Bitget",
+      "colorSvg": "exchanges/color/bitget.svg",
+      "monoSvg": "exchanges/mono/bitget.svg"
+    },
+    {
+      "id": "bithumb",
+      "name": "Bithumb",
+      "colorSvg": "exchanges/color/bithumb.svg",
+      "monoSvg": "exchanges/mono/bithumb.svg"
+    },
+    {
+      "id": "bitstamp",
+      "name": "Bitstamp",
+      "colorSvg": "exchanges/color/bitstamp.svg",
+      "monoSvg": "exchanges/mono/bitstamp.svg"
+    },
+    {
+      "id": "btcturk",
+      "name": "Btcturk",
+      "colorSvg": "exchanges/color/btcturk.svg",
+      "monoSvg": "exchanges/mono/btcturk.svg"
+    },
+    {
+      "id": "bybit",
+      "name": "Bybit",
+      "colorSvg": "exchanges/color/bybit.svg",
+      "monoSvg": "exchanges/mono/bybit.svg"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "colorSvg": "exchanges/color/coinbase.svg",
+      "monoSvg": "exchanges/mono/coinbase.svg"
+    },
+    {
+      "id": "cowswap",
+      "name": "Cowswap",
+      "colorSvg": "exchanges/color/cowswap.svg",
+      "monoSvg": "exchanges/mono/cowswap.svg"
+    },
+    {
+      "id": "crypto-com",
+      "name": "Crypto Com",
+      "colorSvg": "exchanges/color/crypto-com.svg",
+      "monoSvg": "exchanges/mono/crypto-com.svg"
+    },
+    {
+      "id": "gate-io",
+      "name": "Gate Io",
+      "colorSvg": "exchanges/color/gate-io.svg",
+      "monoSvg": "exchanges/mono/gate-io.svg"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "colorSvg": "exchanges/color/gemini.svg",
+      "monoSvg": "exchanges/mono/gemini.svg"
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "colorSvg": "exchanges/color/kraken.svg",
+      "monoSvg": "exchanges/mono/kraken.svg"
+    },
+    {
+      "id": "kucoin",
+      "name": "Kucoin",
+      "colorSvg": "exchanges/color/kucoin.svg",
+      "monoSvg": "exchanges/mono/kucoin.svg"
+    },
+    {
+      "id": "odos",
+      "name": "Odos",
+      "colorSvg": "exchanges/color/odos.svg",
+      "monoSvg": "exchanges/mono/odos.svg"
+    },
+    {
+      "id": "okx",
+      "name": "Okx",
+      "colorSvg": "exchanges/color/okx.svg",
+      "monoSvg": "exchanges/mono/okx.svg"
+    },
+    {
+      "id": "pancake-swap",
+      "name": "Pancake Swap",
+      "colorSvg": "exchanges/color/pancake-swap.svg",
+      "monoSvg": "exchanges/mono/pancake-swap.svg"
+    },
+    {
+      "id": "para-swap",
+      "name": "Para Swap",
+      "colorSvg": "exchanges/color/para-swap.svg",
+      "monoSvg": "exchanges/mono/para-swap.svg"
+    },
+    {
+      "id": "paradex",
+      "name": "Paradex",
+      "colorSvg": "exchanges/color/paradex.svg",
+      "monoSvg": "exchanges/mono/paradex.svg"
+    },
+    {
+      "id": "paribu",
+      "name": "Paribu",
+      "colorSvg": "exchanges/color/paribu.svg",
+      "monoSvg": "exchanges/mono/paribu.svg"
+    },
+    {
+      "id": "sushiswap",
+      "name": "Sushiswap",
+      "colorSvg": "exchanges/color/sushiswap.svg",
+      "monoSvg": "exchanges/mono/sushiswap.svg"
+    },
+    {
+      "id": "swissborg",
+      "name": "Swissborg",
+      "colorSvg": "exchanges/color/swissborg.svg",
+      "monoSvg": "exchanges/mono/swissborg.svg"
+    },
+    {
+      "id": "uniswap",
+      "name": "Uniswap",
+      "colorSvg": "exchanges/color/uniswap.svg",
+      "monoSvg": "exchanges/mono/uniswap.svg"
+    },
+    {
+      "id": "upbit",
+      "name": "Upbit",
+      "colorSvg": "exchanges/color/upbit.svg",
+      "monoSvg": "exchanges/mono/upbit.svg"
+    }
+  ],
+  "exchangeCount": 27
 }
