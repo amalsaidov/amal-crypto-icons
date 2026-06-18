@@ -3516,147 +3516,1071 @@
   ],
   "fiat": [
     {
-      "code": "USD",
-      "name": "US Dollar",
+      "code": "AED",
+      "name": "UAE Dirham",
+      "symbol": "د.إ",
+      "country": "ae",
+      "flagSvg": "fiat/flag/aed.svg"
+    },
+    {
+      "code": "AFN",
+      "name": "Afghan Afghani",
+      "symbol": "؋",
+      "country": "af",
+      "flagSvg": "fiat/flag/afn.svg"
+    },
+    {
+      "code": "ALL",
+      "name": "Albanian Lek",
+      "symbol": "L",
+      "country": "al",
+      "flagSvg": "fiat/flag/all.svg"
+    },
+    {
+      "code": "AMD",
+      "name": "Armenian Dram",
+      "symbol": "֏",
+      "country": "am",
+      "flagSvg": "fiat/flag/amd.svg"
+    },
+    {
+      "code": "ANG",
+      "name": "Neth. Antillean Guilder",
+      "symbol": "ƒ",
+      "country": "cw",
+      "flagSvg": "fiat/flag/ang.svg"
+    },
+    {
+      "code": "AOA",
+      "name": "Angolan Kwanza",
+      "symbol": "Kz",
+      "country": "ao",
+      "flagSvg": "fiat/flag/aoa.svg"
+    },
+    {
+      "code": "ARS",
+      "name": "Argentine Peso",
       "symbol": "$",
-      "color": "#2E7D5B",
-      "colorSvg": "fiat/color/usd.svg"
-    },
-    {
-      "code": "EUR",
-      "name": "Euro",
-      "symbol": "€",
-      "color": "#2E5B8F",
-      "colorSvg": "fiat/color/eur.svg"
-    },
-    {
-      "code": "GBP",
-      "name": "Pound Sterling",
-      "symbol": "£",
-      "color": "#6A3FA0",
-      "colorSvg": "fiat/color/gbp.svg"
-    },
-    {
-      "code": "RUB",
-      "name": "Russian Ruble",
-      "symbol": "₽",
-      "color": "#9A4A2F",
-      "colorSvg": "fiat/color/rub.svg"
-    },
-    {
-      "code": "JPY",
-      "name": "Japanese Yen",
-      "symbol": "¥",
-      "color": "#B23B3B",
-      "colorSvg": "fiat/color/jpy.svg"
-    },
-    {
-      "code": "CNY",
-      "name": "Chinese Yuan",
-      "symbol": "¥",
-      "color": "#C0392B",
-      "colorSvg": "fiat/color/cny.svg"
-    },
-    {
-      "code": "INR",
-      "name": "Indian Rupee",
-      "symbol": "₹",
-      "color": "#C77B30",
-      "colorSvg": "fiat/color/inr.svg"
-    },
-    {
-      "code": "KRW",
-      "name": "South Korean Won",
-      "symbol": "₩",
-      "color": "#2B6CB0",
-      "colorSvg": "fiat/color/krw.svg"
-    },
-    {
-      "code": "BRL",
-      "name": "Brazilian Real",
-      "symbol": "R$",
-      "color": "#2F855A",
-      "colorSvg": "fiat/color/brl.svg"
-    },
-    {
-      "code": "CHF",
-      "name": "Swiss Franc",
-      "symbol": "Fr",
-      "color": "#C0392B",
-      "colorSvg": "fiat/color/chf.svg"
-    },
-    {
-      "code": "CAD",
-      "name": "Canadian Dollar",
-      "symbol": "$",
-      "color": "#B23B3B",
-      "colorSvg": "fiat/color/cad.svg"
+      "country": "ar",
+      "flagSvg": "fiat/flag/ars.svg"
     },
     {
       "code": "AUD",
       "name": "Australian Dollar",
       "symbol": "$",
-      "color": "#2C5282",
-      "colorSvg": "fiat/color/aud.svg"
+      "country": "au",
+      "flagSvg": "fiat/flag/aud.svg"
     },
     {
-      "code": "TRY",
-      "name": "Turkish Lira",
-      "symbol": "₺",
-      "color": "#C0392B",
-      "colorSvg": "fiat/color/try.svg"
+      "code": "AWG",
+      "name": "Aruban Florin",
+      "symbol": "ƒ",
+      "country": "aw",
+      "flagSvg": "fiat/flag/awg.svg"
     },
     {
-      "code": "AED",
-      "name": "UAE Dirham",
-      "symbol": "د.إ",
-      "color": "#2F855A",
-      "colorSvg": "fiat/color/aed.svg"
+      "code": "AZN",
+      "name": "Azerbaijani Manat",
+      "symbol": "₼",
+      "country": "az",
+      "flagSvg": "fiat/flag/azn.svg"
     },
     {
-      "code": "SGD",
-      "name": "Singapore Dollar",
+      "code": "BAM",
+      "name": "Bosnia Mark",
+      "symbol": "KM",
+      "country": "ba",
+      "flagSvg": "fiat/flag/bam.svg"
+    },
+    {
+      "code": "BBD",
+      "name": "Barbadian Dollar",
       "symbol": "$",
-      "color": "#B23B3B",
-      "colorSvg": "fiat/color/sgd.svg"
+      "country": "bb",
+      "flagSvg": "fiat/flag/bbd.svg"
+    },
+    {
+      "code": "BDT",
+      "name": "Bangladeshi Taka",
+      "symbol": "৳",
+      "country": "bd",
+      "flagSvg": "fiat/flag/bdt.svg"
+    },
+    {
+      "code": "BGN",
+      "name": "Bulgarian Lev",
+      "symbol": "лв",
+      "country": "bg",
+      "flagSvg": "fiat/flag/bgn.svg"
+    },
+    {
+      "code": "BHD",
+      "name": "Bahraini Dinar",
+      "symbol": "BD",
+      "country": "bh",
+      "flagSvg": "fiat/flag/bhd.svg"
+    },
+    {
+      "code": "BIF",
+      "name": "Burundian Franc",
+      "symbol": "Fr",
+      "country": "bi",
+      "flagSvg": "fiat/flag/bif.svg"
+    },
+    {
+      "code": "BMD",
+      "name": "Bermudian Dollar",
+      "symbol": "$",
+      "country": "bm",
+      "flagSvg": "fiat/flag/bmd.svg"
+    },
+    {
+      "code": "BND",
+      "name": "Brunei Dollar",
+      "symbol": "$",
+      "country": "bn",
+      "flagSvg": "fiat/flag/bnd.svg"
+    },
+    {
+      "code": "BOB",
+      "name": "Bolivian Boliviano",
+      "symbol": "Bs",
+      "country": "bo",
+      "flagSvg": "fiat/flag/bob.svg"
+    },
+    {
+      "code": "BRL",
+      "name": "Brazilian Real",
+      "symbol": "R$",
+      "country": "br",
+      "flagSvg": "fiat/flag/brl.svg"
+    },
+    {
+      "code": "BSD",
+      "name": "Bahamian Dollar",
+      "symbol": "$",
+      "country": "bs",
+      "flagSvg": "fiat/flag/bsd.svg"
+    },
+    {
+      "code": "BTN",
+      "name": "Bhutanese Ngultrum",
+      "symbol": "Nu",
+      "country": "bt",
+      "flagSvg": "fiat/flag/btn.svg"
+    },
+    {
+      "code": "BWP",
+      "name": "Botswana Pula",
+      "symbol": "P",
+      "country": "bw",
+      "flagSvg": "fiat/flag/bwp.svg"
+    },
+    {
+      "code": "BYN",
+      "name": "Belarusian Ruble",
+      "symbol": "Br",
+      "country": "by",
+      "flagSvg": "fiat/flag/byn.svg"
+    },
+    {
+      "code": "BZD",
+      "name": "Belize Dollar",
+      "symbol": "$",
+      "country": "bz",
+      "flagSvg": "fiat/flag/bzd.svg"
+    },
+    {
+      "code": "CAD",
+      "name": "Canadian Dollar",
+      "symbol": "$",
+      "country": "ca",
+      "flagSvg": "fiat/flag/cad.svg"
+    },
+    {
+      "code": "CDF",
+      "name": "Congolese Franc",
+      "symbol": "Fr",
+      "country": "cd",
+      "flagSvg": "fiat/flag/cdf.svg"
+    },
+    {
+      "code": "CHF",
+      "name": "Swiss Franc",
+      "symbol": "Fr",
+      "country": "ch",
+      "flagSvg": "fiat/flag/chf.svg"
+    },
+    {
+      "code": "CLP",
+      "name": "Chilean Peso",
+      "symbol": "$",
+      "country": "cl",
+      "flagSvg": "fiat/flag/clp.svg"
+    },
+    {
+      "code": "CNY",
+      "name": "Chinese Yuan",
+      "symbol": "¥",
+      "country": "cn",
+      "flagSvg": "fiat/flag/cny.svg"
+    },
+    {
+      "code": "COP",
+      "name": "Colombian Peso",
+      "symbol": "$",
+      "country": "co",
+      "flagSvg": "fiat/flag/cop.svg"
+    },
+    {
+      "code": "CRC",
+      "name": "Costa Rican Colón",
+      "symbol": "₡",
+      "country": "cr",
+      "flagSvg": "fiat/flag/crc.svg"
+    },
+    {
+      "code": "CUP",
+      "name": "Cuban Peso",
+      "symbol": "$",
+      "country": "cu",
+      "flagSvg": "fiat/flag/cup.svg"
+    },
+    {
+      "code": "CVE",
+      "name": "Cape Verdean Escudo",
+      "symbol": "$",
+      "country": "cv",
+      "flagSvg": "fiat/flag/cve.svg"
+    },
+    {
+      "code": "CZK",
+      "name": "Czech Koruna",
+      "symbol": "Kč",
+      "country": "cz",
+      "flagSvg": "fiat/flag/czk.svg"
+    },
+    {
+      "code": "DJF",
+      "name": "Djiboutian Franc",
+      "symbol": "Fr",
+      "country": "dj",
+      "flagSvg": "fiat/flag/djf.svg"
+    },
+    {
+      "code": "DKK",
+      "name": "Danish Krone",
+      "symbol": "kr",
+      "country": "dk",
+      "flagSvg": "fiat/flag/dkk.svg"
+    },
+    {
+      "code": "DOP",
+      "name": "Dominican Peso",
+      "symbol": "$",
+      "country": "do",
+      "flagSvg": "fiat/flag/dop.svg"
+    },
+    {
+      "code": "DZD",
+      "name": "Algerian Dinar",
+      "symbol": "DA",
+      "country": "dz",
+      "flagSvg": "fiat/flag/dzd.svg"
+    },
+    {
+      "code": "EGP",
+      "name": "Egyptian Pound",
+      "symbol": "£",
+      "country": "eg",
+      "flagSvg": "fiat/flag/egp.svg"
+    },
+    {
+      "code": "ERN",
+      "name": "Eritrean Nakfa",
+      "symbol": "Nfk",
+      "country": "er",
+      "flagSvg": "fiat/flag/ern.svg"
+    },
+    {
+      "code": "ETB",
+      "name": "Ethiopian Birr",
+      "symbol": "Br",
+      "country": "et",
+      "flagSvg": "fiat/flag/etb.svg"
+    },
+    {
+      "code": "EUR",
+      "name": "Euro",
+      "symbol": "€",
+      "country": "eu",
+      "flagSvg": "fiat/flag/eur.svg"
+    },
+    {
+      "code": "FJD",
+      "name": "Fijian Dollar",
+      "symbol": "$",
+      "country": "fj",
+      "flagSvg": "fiat/flag/fjd.svg"
+    },
+    {
+      "code": "FKP",
+      "name": "Falkland Pound",
+      "symbol": "£",
+      "country": "fk",
+      "flagSvg": "fiat/flag/fkp.svg"
+    },
+    {
+      "code": "GBP",
+      "name": "British Pound",
+      "symbol": "£",
+      "country": "gb",
+      "flagSvg": "fiat/flag/gbp.svg"
+    },
+    {
+      "code": "GEL",
+      "name": "Georgian Lari",
+      "symbol": "₾",
+      "country": "ge",
+      "flagSvg": "fiat/flag/gel.svg"
+    },
+    {
+      "code": "GHS",
+      "name": "Ghanaian Cedi",
+      "symbol": "₵",
+      "country": "gh",
+      "flagSvg": "fiat/flag/ghs.svg"
+    },
+    {
+      "code": "GIP",
+      "name": "Gibraltar Pound",
+      "symbol": "£",
+      "country": "gi",
+      "flagSvg": "fiat/flag/gip.svg"
+    },
+    {
+      "code": "GMD",
+      "name": "Gambian Dalasi",
+      "symbol": "D",
+      "country": "gm",
+      "flagSvg": "fiat/flag/gmd.svg"
+    },
+    {
+      "code": "GNF",
+      "name": "Guinean Franc",
+      "symbol": "Fr",
+      "country": "gn",
+      "flagSvg": "fiat/flag/gnf.svg"
+    },
+    {
+      "code": "GTQ",
+      "name": "Guatemalan Quetzal",
+      "symbol": "Q",
+      "country": "gt",
+      "flagSvg": "fiat/flag/gtq.svg"
+    },
+    {
+      "code": "GYD",
+      "name": "Guyanese Dollar",
+      "symbol": "$",
+      "country": "gy",
+      "flagSvg": "fiat/flag/gyd.svg"
     },
     {
       "code": "HKD",
       "name": "Hong Kong Dollar",
       "symbol": "$",
-      "color": "#C0392B",
-      "colorSvg": "fiat/color/hkd.svg"
+      "country": "hk",
+      "flagSvg": "fiat/flag/hkd.svg"
     },
     {
-      "code": "NGN",
-      "name": "Nigerian Naira",
-      "symbol": "₦",
-      "color": "#2F855A",
-      "colorSvg": "fiat/color/ngn.svg"
+      "code": "HNL",
+      "name": "Honduran Lempira",
+      "symbol": "L",
+      "country": "hn",
+      "flagSvg": "fiat/flag/hnl.svg"
     },
     {
-      "code": "UAH",
-      "name": "Ukrainian Hryvnia",
-      "symbol": "₴",
-      "color": "#2B6CB0",
-      "colorSvg": "fiat/color/uah.svg"
+      "code": "HRK",
+      "name": "Croatian Kuna",
+      "symbol": "kn",
+      "country": "hr",
+      "flagSvg": "fiat/flag/hrk.svg"
+    },
+    {
+      "code": "HTG",
+      "name": "Haitian Gourde",
+      "symbol": "G",
+      "country": "ht",
+      "flagSvg": "fiat/flag/htg.svg"
+    },
+    {
+      "code": "HUF",
+      "name": "Hungarian Forint",
+      "symbol": "Ft",
+      "country": "hu",
+      "flagSvg": "fiat/flag/huf.svg"
+    },
+    {
+      "code": "IDR",
+      "name": "Indonesian Rupiah",
+      "symbol": "Rp",
+      "country": "id",
+      "flagSvg": "fiat/flag/idr.svg"
+    },
+    {
+      "code": "ILS",
+      "name": "Israeli Shekel",
+      "symbol": "₪",
+      "country": "il",
+      "flagSvg": "fiat/flag/ils.svg"
+    },
+    {
+      "code": "INR",
+      "name": "Indian Rupee",
+      "symbol": "₹",
+      "country": "in",
+      "flagSvg": "fiat/flag/inr.svg"
+    },
+    {
+      "code": "IQD",
+      "name": "Iraqi Dinar",
+      "symbol": "ID",
+      "country": "iq",
+      "flagSvg": "fiat/flag/iqd.svg"
+    },
+    {
+      "code": "IRR",
+      "name": "Iranian Rial",
+      "symbol": "﷼",
+      "country": "ir",
+      "flagSvg": "fiat/flag/irr.svg"
+    },
+    {
+      "code": "ISK",
+      "name": "Icelandic Króna",
+      "symbol": "kr",
+      "country": "is",
+      "flagSvg": "fiat/flag/isk.svg"
+    },
+    {
+      "code": "JMD",
+      "name": "Jamaican Dollar",
+      "symbol": "$",
+      "country": "jm",
+      "flagSvg": "fiat/flag/jmd.svg"
+    },
+    {
+      "code": "JOD",
+      "name": "Jordanian Dinar",
+      "symbol": "JD",
+      "country": "jo",
+      "flagSvg": "fiat/flag/jod.svg"
+    },
+    {
+      "code": "JPY",
+      "name": "Japanese Yen",
+      "symbol": "¥",
+      "country": "jp",
+      "flagSvg": "fiat/flag/jpy.svg"
+    },
+    {
+      "code": "KES",
+      "name": "Kenyan Shilling",
+      "symbol": "Sh",
+      "country": "ke",
+      "flagSvg": "fiat/flag/kes.svg"
+    },
+    {
+      "code": "KGS",
+      "name": "Kyrgyzstani Som",
+      "symbol": "с",
+      "country": "kg",
+      "flagSvg": "fiat/flag/kgs.svg"
+    },
+    {
+      "code": "KHR",
+      "name": "Cambodian Riel",
+      "symbol": "៛",
+      "country": "kh",
+      "flagSvg": "fiat/flag/khr.svg"
+    },
+    {
+      "code": "KMF",
+      "name": "Comorian Franc",
+      "symbol": "Fr",
+      "country": "km",
+      "flagSvg": "fiat/flag/kmf.svg"
+    },
+    {
+      "code": "KPW",
+      "name": "North Korean Won",
+      "symbol": "₩",
+      "country": "kp",
+      "flagSvg": "fiat/flag/kpw.svg"
+    },
+    {
+      "code": "KRW",
+      "name": "South Korean Won",
+      "symbol": "₩",
+      "country": "kr",
+      "flagSvg": "fiat/flag/krw.svg"
+    },
+    {
+      "code": "KWD",
+      "name": "Kuwaiti Dinar",
+      "symbol": "KD",
+      "country": "kw",
+      "flagSvg": "fiat/flag/kwd.svg"
+    },
+    {
+      "code": "KYD",
+      "name": "Cayman Dollar",
+      "symbol": "$",
+      "country": "ky",
+      "flagSvg": "fiat/flag/kyd.svg"
     },
     {
       "code": "KZT",
       "name": "Kazakhstani Tenge",
       "symbol": "₸",
-      "color": "#2C7BB6",
-      "colorSvg": "fiat/color/kzt.svg"
+      "country": "kz",
+      "flagSvg": "fiat/flag/kzt.svg"
+    },
+    {
+      "code": "LAK",
+      "name": "Lao Kip",
+      "symbol": "₭",
+      "country": "la",
+      "flagSvg": "fiat/flag/lak.svg"
+    },
+    {
+      "code": "LBP",
+      "name": "Lebanese Pound",
+      "symbol": "ل.ل",
+      "country": "lb",
+      "flagSvg": "fiat/flag/lbp.svg"
+    },
+    {
+      "code": "LKR",
+      "name": "Sri Lankan Rupee",
+      "symbol": "₨",
+      "country": "lk",
+      "flagSvg": "fiat/flag/lkr.svg"
+    },
+    {
+      "code": "LRD",
+      "name": "Liberian Dollar",
+      "symbol": "$",
+      "country": "lr",
+      "flagSvg": "fiat/flag/lrd.svg"
+    },
+    {
+      "code": "LSL",
+      "name": "Lesotho Loti",
+      "symbol": "L",
+      "country": "ls",
+      "flagSvg": "fiat/flag/lsl.svg"
+    },
+    {
+      "code": "LYD",
+      "name": "Libyan Dinar",
+      "symbol": "LD",
+      "country": "ly",
+      "flagSvg": "fiat/flag/lyd.svg"
+    },
+    {
+      "code": "MAD",
+      "name": "Moroccan Dirham",
+      "symbol": "DH",
+      "country": "ma",
+      "flagSvg": "fiat/flag/mad.svg"
+    },
+    {
+      "code": "MDL",
+      "name": "Moldovan Leu",
+      "symbol": "L",
+      "country": "md",
+      "flagSvg": "fiat/flag/mdl.svg"
+    },
+    {
+      "code": "MGA",
+      "name": "Malagasy Ariary",
+      "symbol": "Ar",
+      "country": "mg",
+      "flagSvg": "fiat/flag/mga.svg"
+    },
+    {
+      "code": "MKD",
+      "name": "Macedonian Denar",
+      "symbol": "ден",
+      "country": "mk",
+      "flagSvg": "fiat/flag/mkd.svg"
+    },
+    {
+      "code": "MMK",
+      "name": "Myanmar Kyat",
+      "symbol": "K",
+      "country": "mm",
+      "flagSvg": "fiat/flag/mmk.svg"
+    },
+    {
+      "code": "MNT",
+      "name": "Mongolian Tögrög",
+      "symbol": "₮",
+      "country": "mn",
+      "flagSvg": "fiat/flag/mnt.svg"
+    },
+    {
+      "code": "MOP",
+      "name": "Macanese Pataca",
+      "symbol": "P",
+      "country": "mo",
+      "flagSvg": "fiat/flag/mop.svg"
+    },
+    {
+      "code": "MRU",
+      "name": "Mauritanian Ouguiya",
+      "symbol": "UM",
+      "country": "mr",
+      "flagSvg": "fiat/flag/mru.svg"
+    },
+    {
+      "code": "MUR",
+      "name": "Mauritian Rupee",
+      "symbol": "₨",
+      "country": "mu",
+      "flagSvg": "fiat/flag/mur.svg"
+    },
+    {
+      "code": "MVR",
+      "name": "Maldivian Rufiyaa",
+      "symbol": "Rf",
+      "country": "mv",
+      "flagSvg": "fiat/flag/mvr.svg"
+    },
+    {
+      "code": "MWK",
+      "name": "Malawian Kwacha",
+      "symbol": "MK",
+      "country": "mw",
+      "flagSvg": "fiat/flag/mwk.svg"
+    },
+    {
+      "code": "MXN",
+      "name": "Mexican Peso",
+      "symbol": "$",
+      "country": "mx",
+      "flagSvg": "fiat/flag/mxn.svg"
+    },
+    {
+      "code": "MYR",
+      "name": "Malaysian Ringgit",
+      "symbol": "RM",
+      "country": "my",
+      "flagSvg": "fiat/flag/myr.svg"
+    },
+    {
+      "code": "MZN",
+      "name": "Mozambican Metical",
+      "symbol": "MT",
+      "country": "mz",
+      "flagSvg": "fiat/flag/mzn.svg"
+    },
+    {
+      "code": "NAD",
+      "name": "Namibian Dollar",
+      "symbol": "$",
+      "country": "na",
+      "flagSvg": "fiat/flag/nad.svg"
+    },
+    {
+      "code": "NGN",
+      "name": "Nigerian Naira",
+      "symbol": "₦",
+      "country": "ng",
+      "flagSvg": "fiat/flag/ngn.svg"
+    },
+    {
+      "code": "NIO",
+      "name": "Nicaraguan Córdoba",
+      "symbol": "C$",
+      "country": "ni",
+      "flagSvg": "fiat/flag/nio.svg"
+    },
+    {
+      "code": "NOK",
+      "name": "Norwegian Krone",
+      "symbol": "kr",
+      "country": "no",
+      "flagSvg": "fiat/flag/nok.svg"
+    },
+    {
+      "code": "NPR",
+      "name": "Nepalese Rupee",
+      "symbol": "₨",
+      "country": "np",
+      "flagSvg": "fiat/flag/npr.svg"
+    },
+    {
+      "code": "NZD",
+      "name": "New Zealand Dollar",
+      "symbol": "$",
+      "country": "nz",
+      "flagSvg": "fiat/flag/nzd.svg"
+    },
+    {
+      "code": "OMR",
+      "name": "Omani Rial",
+      "symbol": "﷼",
+      "country": "om",
+      "flagSvg": "fiat/flag/omr.svg"
+    },
+    {
+      "code": "PAB",
+      "name": "Panamanian Balboa",
+      "symbol": "B/",
+      "country": "pa",
+      "flagSvg": "fiat/flag/pab.svg"
+    },
+    {
+      "code": "PEN",
+      "name": "Peruvian Sol",
+      "symbol": "S/",
+      "country": "pe",
+      "flagSvg": "fiat/flag/pen.svg"
+    },
+    {
+      "code": "PGK",
+      "name": "PNG Kina",
+      "symbol": "K",
+      "country": "pg",
+      "flagSvg": "fiat/flag/pgk.svg"
+    },
+    {
+      "code": "PHP",
+      "name": "Philippine Peso",
+      "symbol": "₱",
+      "country": "ph",
+      "flagSvg": "fiat/flag/php.svg"
+    },
+    {
+      "code": "PKR",
+      "name": "Pakistani Rupee",
+      "symbol": "₨",
+      "country": "pk",
+      "flagSvg": "fiat/flag/pkr.svg"
     },
     {
       "code": "PLN",
-      "name": "Polish Zloty",
+      "name": "Polish Złoty",
       "symbol": "zł",
-      "color": "#B23B3B",
-      "colorSvg": "fiat/color/pln.svg"
+      "country": "pl",
+      "flagSvg": "fiat/flag/pln.svg"
+    },
+    {
+      "code": "PYG",
+      "name": "Paraguayan Guaraní",
+      "symbol": "₲",
+      "country": "py",
+      "flagSvg": "fiat/flag/pyg.svg"
+    },
+    {
+      "code": "QAR",
+      "name": "Qatari Riyal",
+      "symbol": "﷼",
+      "country": "qa",
+      "flagSvg": "fiat/flag/qar.svg"
+    },
+    {
+      "code": "RON",
+      "name": "Romanian Leu",
+      "symbol": "lei",
+      "country": "ro",
+      "flagSvg": "fiat/flag/ron.svg"
+    },
+    {
+      "code": "RSD",
+      "name": "Serbian Dinar",
+      "symbol": "дин",
+      "country": "rs",
+      "flagSvg": "fiat/flag/rsd.svg"
+    },
+    {
+      "code": "RUB",
+      "name": "Russian Ruble",
+      "symbol": "₽",
+      "country": "ru",
+      "flagSvg": "fiat/flag/rub.svg"
+    },
+    {
+      "code": "RWF",
+      "name": "Rwandan Franc",
+      "symbol": "Fr",
+      "country": "rw",
+      "flagSvg": "fiat/flag/rwf.svg"
+    },
+    {
+      "code": "SAR",
+      "name": "Saudi Riyal",
+      "symbol": "﷼",
+      "country": "sa",
+      "flagSvg": "fiat/flag/sar.svg"
+    },
+    {
+      "code": "SBD",
+      "name": "Solomon Dollar",
+      "symbol": "$",
+      "country": "sb",
+      "flagSvg": "fiat/flag/sbd.svg"
+    },
+    {
+      "code": "SCR",
+      "name": "Seychellois Rupee",
+      "symbol": "₨",
+      "country": "sc",
+      "flagSvg": "fiat/flag/scr.svg"
+    },
+    {
+      "code": "SDG",
+      "name": "Sudanese Pound",
+      "symbol": "£",
+      "country": "sd",
+      "flagSvg": "fiat/flag/sdg.svg"
+    },
+    {
+      "code": "SEK",
+      "name": "Swedish Krona",
+      "symbol": "kr",
+      "country": "se",
+      "flagSvg": "fiat/flag/sek.svg"
+    },
+    {
+      "code": "SGD",
+      "name": "Singapore Dollar",
+      "symbol": "$",
+      "country": "sg",
+      "flagSvg": "fiat/flag/sgd.svg"
+    },
+    {
+      "code": "SHP",
+      "name": "Saint Helena Pound",
+      "symbol": "£",
+      "country": "sh",
+      "flagSvg": "fiat/flag/shp.svg"
+    },
+    {
+      "code": "SLE",
+      "name": "Sierra Leonean Leone",
+      "symbol": "Le",
+      "country": "sl",
+      "flagSvg": "fiat/flag/sle.svg"
+    },
+    {
+      "code": "SOS",
+      "name": "Somali Shilling",
+      "symbol": "Sh",
+      "country": "so",
+      "flagSvg": "fiat/flag/sos.svg"
+    },
+    {
+      "code": "SRD",
+      "name": "Surinamese Dollar",
+      "symbol": "$",
+      "country": "sr",
+      "flagSvg": "fiat/flag/srd.svg"
+    },
+    {
+      "code": "SSP",
+      "name": "South Sudanese Pound",
+      "symbol": "£",
+      "country": "ss",
+      "flagSvg": "fiat/flag/ssp.svg"
+    },
+    {
+      "code": "STN",
+      "name": "São Tomé Dobra",
+      "symbol": "Db",
+      "country": "st",
+      "flagSvg": "fiat/flag/stn.svg"
+    },
+    {
+      "code": "SVC",
+      "name": "Salvadoran Colón",
+      "symbol": "₡",
+      "country": "sv",
+      "flagSvg": "fiat/flag/svc.svg"
+    },
+    {
+      "code": "SYP",
+      "name": "Syrian Pound",
+      "symbol": "£",
+      "country": "sy",
+      "flagSvg": "fiat/flag/syp.svg"
+    },
+    {
+      "code": "SZL",
+      "name": "Swazi Lilangeni",
+      "symbol": "L",
+      "country": "sz",
+      "flagSvg": "fiat/flag/szl.svg"
+    },
+    {
+      "code": "THB",
+      "name": "Thai Baht",
+      "symbol": "฿",
+      "country": "th",
+      "flagSvg": "fiat/flag/thb.svg"
+    },
+    {
+      "code": "TJS",
+      "name": "Tajikistani Somoni",
+      "symbol": "ЅМ",
+      "country": "tj",
+      "flagSvg": "fiat/flag/tjs.svg"
+    },
+    {
+      "code": "TMT",
+      "name": "Turkmenistan Manat",
+      "symbol": "m",
+      "country": "tm",
+      "flagSvg": "fiat/flag/tmt.svg"
+    },
+    {
+      "code": "TND",
+      "name": "Tunisian Dinar",
+      "symbol": "DT",
+      "country": "tn",
+      "flagSvg": "fiat/flag/tnd.svg"
+    },
+    {
+      "code": "TOP",
+      "name": "Tongan Paʻanga",
+      "symbol": "T$",
+      "country": "to",
+      "flagSvg": "fiat/flag/top.svg"
+    },
+    {
+      "code": "TRY",
+      "name": "Turkish Lira",
+      "symbol": "₺",
+      "country": "tr",
+      "flagSvg": "fiat/flag/try.svg"
+    },
+    {
+      "code": "TTD",
+      "name": "Trinidad Dollar",
+      "symbol": "$",
+      "country": "tt",
+      "flagSvg": "fiat/flag/ttd.svg"
+    },
+    {
+      "code": "TWD",
+      "name": "Taiwan Dollar",
+      "symbol": "NT$",
+      "country": "tw",
+      "flagSvg": "fiat/flag/twd.svg"
+    },
+    {
+      "code": "TZS",
+      "name": "Tanzanian Shilling",
+      "symbol": "Sh",
+      "country": "tz",
+      "flagSvg": "fiat/flag/tzs.svg"
+    },
+    {
+      "code": "UAH",
+      "name": "Ukrainian Hryvnia",
+      "symbol": "₴",
+      "country": "ua",
+      "flagSvg": "fiat/flag/uah.svg"
+    },
+    {
+      "code": "UGX",
+      "name": "Ugandan Shilling",
+      "symbol": "Sh",
+      "country": "ug",
+      "flagSvg": "fiat/flag/ugx.svg"
+    },
+    {
+      "code": "USD",
+      "name": "US Dollar",
+      "symbol": "$",
+      "country": "us",
+      "flagSvg": "fiat/flag/usd.svg"
+    },
+    {
+      "code": "UYU",
+      "name": "Uruguayan Peso",
+      "symbol": "$",
+      "country": "uy",
+      "flagSvg": "fiat/flag/uyu.svg"
+    },
+    {
+      "code": "UZS",
+      "name": "Uzbekistani Som",
+      "symbol": "soʻm",
+      "country": "uz",
+      "flagSvg": "fiat/flag/uzs.svg"
+    },
+    {
+      "code": "VES",
+      "name": "Venezuelan Bolívar",
+      "symbol": "Bs",
+      "country": "ve",
+      "flagSvg": "fiat/flag/ves.svg"
+    },
+    {
+      "code": "VND",
+      "name": "Vietnamese Dong",
+      "symbol": "₫",
+      "country": "vn",
+      "flagSvg": "fiat/flag/vnd.svg"
+    },
+    {
+      "code": "VUV",
+      "name": "Vanuatu Vatu",
+      "symbol": "VT",
+      "country": "vu",
+      "flagSvg": "fiat/flag/vuv.svg"
+    },
+    {
+      "code": "WST",
+      "name": "Samoan Tālā",
+      "symbol": "T",
+      "country": "ws",
+      "flagSvg": "fiat/flag/wst.svg"
+    },
+    {
+      "code": "YER",
+      "name": "Yemeni Rial",
+      "symbol": "﷼",
+      "country": "ye",
+      "flagSvg": "fiat/flag/yer.svg"
+    },
+    {
+      "code": "ZAR",
+      "name": "South African Rand",
+      "symbol": "R",
+      "country": "za",
+      "flagSvg": "fiat/flag/zar.svg"
+    },
+    {
+      "code": "ZMW",
+      "name": "Zambian Kwacha",
+      "symbol": "ZK",
+      "country": "zm",
+      "flagSvg": "fiat/flag/zmw.svg"
+    },
+    {
+      "code": "ZWL",
+      "name": "Zimbabwean Dollar",
+      "symbol": "$",
+      "country": "zw",
+      "flagSvg": "fiat/flag/zwl.svg"
     }
   ],
-  "fiatCount": 20,
+  "fiatCount": 152,
   "aliases": {
     "weth": "eth",
     "steth": "eth",

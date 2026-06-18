@@ -3,7 +3,7 @@
 > High-quality **vector (SVG)** crypto + fiat currency icons — sharp at any size, never blurry.
 > One shared source for all **Simple** apps (wallet · currency · ledge). Config-driven, CC0.
 
-- **489 crypto** icons (color + monochrome) · **20 fiat** currency icons · all SVG
+- **489 crypto** icons (color + monochrome) · **152 fiat** currency icons (all ISO 4217, flag-based) · all SVG
 - Served free via **jsDelivr CDN** (cached, immutable) or **GitHub raw**
 - Drop-in **Flutter** widget + a browsable **web gallery**
 - Single source of truth → identical icons across every app (no drift)
@@ -13,7 +13,7 @@
 ```
 https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/crypto/color/<symbol>.svg
 https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/crypto/mono/<symbol>.svg
-https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/fiat/color/<code>.svg
+https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/fiat/flag/<code>.svg
 ```
 
 `<symbol>` / `<code>` are lowercase (e.g. `eth`, `btc`, `usdc`, `usd`, `eur`). Pin a
@@ -55,7 +55,7 @@ icon; click one to copy its CDN URL. (Or open [`index.html`](index.html) locally
 ```
 crypto/color/   489 color SVGs (32×32)
 crypto/mono/    489 monochrome SVGs
-fiat/color/     20 fiat currency SVGs
+fiat/flag/      152 world currency flag SVGs (ISO 4217)
 manifest.json   index of everything
 flutter/        crypto_icons.dart — drop-in widget + resolver
 index.html      browsable gallery
@@ -70,6 +70,7 @@ Drop an SVG into `crypto/color/<symbol>.svg` (+ `crypto/mono/`), add an entry to
 
 - Core crypto icons from [spothq/cryptocurrency-icons](https://github.com/spothq/cryptocurrency-icons) — **CC0 1.0**.
 - Additional modern tokens (ARB, OP, PEPE, SHIB, GMX, PENDLE, JOE, CAKE, FRAX, SUN, JST…) from [0xa3k5/web3icons](https://github.com/0xa3k5/web3icons) — **MIT**.
-- Fiat icons + Flutter interface: this repo — **CC0 1.0** (see [LICENSE](LICENSE)).
+- Fiat **flags** from [lipis/flag-icons](https://github.com/lipis/flag-icons) — **MIT**.
+- Flutter interface: this repo — **CC0 1.0** (see [LICENSE](LICENSE)).
 
 Coin logos may be trademarks of their respective projects; CC0 covers the icon files only.

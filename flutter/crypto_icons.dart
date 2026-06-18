@@ -40,7 +40,7 @@ class CryptoIcons {
   static String svgUrl(String symbol,
       {IconKind kind = IconKind.crypto, bool mono = false}) {
     var s = symbol.toLowerCase().split('.').first; // strip .e / .b suffixes
-    if (kind == IconKind.fiat) return '${cdn}fiat/color/$s.svg';
+    if (kind == IconKind.fiat) return '${cdn}fiat/flag/$s.svg'; // 152 world flags
     s = aliases[s] ?? s;
     return '$cdn${mono ? 'crypto/mono' : 'crypto/color'}/$s.svg';
   }
