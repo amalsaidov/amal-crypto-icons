@@ -47,8 +47,8 @@ validate coverage.
 
 ## Gallery
 
-Open [`index.html`](index.html) (or GitHub Pages) — searchable grid of every icon;
-click one to copy its CDN URL.
+**Live:** https://amalsaidov.github.io/amal-crypto-icons/ — searchable grid of every
+icon; click one to copy its CDN URL. (Or open [`index.html`](index.html) locally.)
 
 ## Structure
 
