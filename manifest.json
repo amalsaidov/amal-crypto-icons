@@ -4,7 +4,7 @@
   "description": "High-quality vector (SVG) crypto + fiat icons. Sharp at any size. CC0.",
   "cdn": "https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/",
   "raw": "https://raw.githubusercontent.com/amalsaidov/amal-crypto-icons/main/",
-  "count": 501,
+  "count": 506,
   "crypto": [
     {
       "symbol": "$PAC",
@@ -96,6 +96,12 @@
       "color": "#134451",
       "colorSvg": "crypto/color/aeon.svg",
       "monoSvg": "crypto/mono/aeon.svg"
+    },
+    {
+      "symbol": "AERO",
+      "name": "Aerodrome",
+      "color": "",
+      "rasterPng": "crypto/raster/aero.png"
     },
     {
       "symbol": "AEUR",
@@ -504,6 +510,12 @@
       "monoSvg": "crypto/mono/brd.svg"
     },
     {
+      "symbol": "BRETT",
+      "name": "Brett",
+      "color": "",
+      "rasterPng": "crypto/raster/brett.png"
+    },
+    {
       "symbol": "BSD",
       "name": "BitSend",
       "color": "#000000",
@@ -600,6 +612,12 @@
       "color": "#2d2d2d",
       "colorSvg": "crypto/color/burst.svg",
       "monoSvg": "crypto/mono/burst.svg"
+    },
+    {
+      "symbol": "BUSD",
+      "name": "Binance USD",
+      "color": "",
+      "rasterPng": "crypto/raster/busd.png"
     },
     {
       "symbol": "BZE",
@@ -1797,6 +1815,12 @@
       "color": "#f55749",
       "colorSvg": "crypto/color/lun.svg",
       "monoSvg": "crypto/mono/lun.svg"
+    },
+    {
+      "symbol": "MAGIC",
+      "name": "Magic (Treasure)",
+      "color": "",
+      "rasterPng": "crypto/raster/magic.png"
     },
     {
       "symbol": "MAID",
@@ -3092,6 +3116,12 @@
       "color": "#3e73c4",
       "colorSvg": "crypto/color/usdc.svg",
       "monoSvg": "crypto/mono/usdc.svg"
+    },
+    {
+      "symbol": "USDJ",
+      "name": "USDJ",
+      "color": "",
+      "rasterPng": "crypto/raster/usdj.png"
     },
     {
       "symbol": "USDT",
