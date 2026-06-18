@@ -43,6 +43,7 @@
   <div class="seg">
     <button data-k="crypto" class="on">Crypto</button>
     <button data-k="mono">Mono</button>
+    <button data-k="network">Networks</button>
     <button data-k="fiat">Fiat</button>
   </div>
   <span class="count" id="count"></span>
@@ -52,11 +53,12 @@
 
 <script>
 const CDN = 'https://cdn.jsdelivr.net/gh/amalsaidov/amal-crypto-icons@main/';
-let DATA = {crypto:[], fiat:[]}, kind = 'crypto';
+let DATA = {crypto:[], fiat:[], network:[]}, kind = 'crypto';
 
 fetch('manifest.json').then(r=>r.json()).then(m=>{
   DATA.crypto = m.crypto || [];
   DATA.fiat = m.fiat || [];
+  DATA.network = m.networks || [];
   render();
 });
 
@@ -71,15 +73,16 @@ q.oninput = render;
 
 function render(){
   const term = q.value.trim().toLowerCase();
-  const fiat = kind==='fiat';
-  const list = (fiat ? DATA.fiat : DATA.crypto).filter(e=>{
-    const sym = (fiat ? e.code : e.symbol).toLowerCase();
+  const fiat = kind==='fiat', net = kind==='network';
+  const src = fiat ? DATA.fiat : net ? DATA.network : DATA.crypto;
+  const list = src.filter(e=>{
+    const sym = (fiat ? e.code : net ? e.id : e.symbol).toLowerCase();
     return !term || sym.includes(term) || (e.name||'').toLowerCase().includes(term);
   });
   countEl.textContent = list.length + ' icons';
   grid.innerHTML = list.map(e=>{
-    const sym = fiat ? e.code : e.symbol;
-    const path = fiat ? e.flagSvg : (kind==='mono' ? e.monoSvg : e.colorSvg);
+    const sym = fiat ? e.code : net ? e.id : e.symbol;
+    const path = fiat ? e.flagSvg : net ? e.colorSvg : (kind==='mono' ? (e.monoSvg||e.colorSvg) : e.colorSvg);
     return `<div class="cell" data-url="${CDN}${path}">
       <img loading="lazy" src="${path}" alt="${sym}">
       <div class="sym">${sym}</div><div class="nm">${e.name||''}</div></div>`;

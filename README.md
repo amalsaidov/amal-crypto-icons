@@ -3,7 +3,7 @@
 > High-quality **vector (SVG)** crypto + fiat currency icons — sharp at any size, never blurry.
 > One shared source for all **Simple** apps (wallet · currency · ledge). Config-driven, CC0.
 
-- **489 crypto** icons (color + monochrome) · **152 fiat** currency icons (all ISO 4217, flag-based) · all SVG
+- **2061 crypto** icons (color + mono) · **207 network/chain** icons · **152 fiat** currency icons (all ISO 4217, flag-based) · all SVG
 - Served free via **jsDelivr CDN** (cached, immutable) or **GitHub raw**
 - Drop-in **Flutter** widget + a browsable **web gallery**
 - Single source of truth → identical icons across every app (no drift)
@@ -53,8 +53,10 @@ icon; click one to copy its CDN URL. (Or open [`index.html`](index.html) locally
 ## Structure
 
 ```
-crypto/color/   489 color SVGs (32×32)
-crypto/mono/    489 monochrome SVGs
+crypto/color/   2061 color SVGs
+crypto/mono/    1783 monochrome SVGs
+crypto/raster/  5 PNG logos (tokens with no free vector)
+networks/color/ 207 chain logos (+ mono)
 fiat/flag/      152 world currency flag SVGs (ISO 4217)
 manifest.json   index of everything
 flutter/        crypto_icons.dart — drop-in widget + resolver

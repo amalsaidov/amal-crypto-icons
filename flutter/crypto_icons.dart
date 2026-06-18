@@ -16,7 +16,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-enum IconKind { crypto, fiat }
+enum IconKind { crypto, fiat, network }
 
 class CryptoIcons {
   CryptoIcons._();
@@ -41,6 +41,9 @@ class CryptoIcons {
       {IconKind kind = IconKind.crypto, bool mono = false}) {
     var s = symbol.toLowerCase().split('.').first; // strip .e / .b suffixes
     if (kind == IconKind.fiat) return '${cdn}fiat/flag/$s.svg'; // 152 world flags
+    if (kind == IconKind.network) {
+      return '$cdn${mono ? 'networks/mono' : 'networks/color'}/$s.svg'; // 207 chains
+    }
     s = aliases[s] ?? s;
     return '$cdn${mono ? 'crypto/mono' : 'crypto/color'}/$s.svg';
   }
